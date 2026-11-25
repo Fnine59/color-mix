@@ -1,0 +1,2 @@
+# Preserve the vendored upstream bytes and treat CRLF as valid line endings.
+site/vendor/spectral.js -text whitespace=cr-at-eol

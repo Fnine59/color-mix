@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' blob:; connect-src 'self'; worker-src 'self'; font-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>点照片，找油画棒配方</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./color-math.js"></script>
+  <script defer src="./image-input.js"></script>
+  <script defer src="./owned-colors.js"></script>
+  <script defer src="./white-balance.js"></script>
+  <script defer src="./vendor/spectral.js"></script>
+  <script defer src="./recipe.js"></script>
+  <script defer src="./palette.js"></script>
+  <script defer src="./wax-paper.js"></script>
+  <script defer src="./wax-render.js"></script>
+  <script defer src="./soft-smudge.js"></script>
+  <script defer src="./paper-studio.js"></script>
+  <script defer src="./paper-engine.js"></script>
+  <script defer src="./paper-pipeline.js"></script>
+  <script defer src="./pick-loupe.js"></script>
+  <script defer src="./photo-view.js"></script>
+  <script defer src="./palette-ui.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+<main>
+  <header class="hero">
+    <div class="eyebrow"><span class="brand-dot"></span> 高尔乐油画棒 <span class="badge">试用版</span></div>
+    <h1>点照片，<br class="mobile-break">找出怎么配色。</h1>
+    <p>点一下你想画的颜色，下面直接告诉你用哪几支、各几份。</p>
+  </header>
+  <div class="main-flow">
+    <section class="panel photo-panel" aria-labelledby="photo-title">
+      <div class="photo-heading"><h2 id="photo-title">① 放张照片，点一个颜色</h2><details id="settings">
+        <summary>设置 <span id="scope-summary">全部 237 色</span></summary>
+        <div class="settings-body">
+          <div class="scope-controls">
+            <label class="field" for="product">软硬档次<select id="product"><option value="all">全部档次 / 套装 · 237 色</option></select><small>每档都有 6、7、8 三个色系；中国传统色、精选木盒另列。</small></label>
+            <div><strong class="scope-label">按色系一键勾选我有的颜色</strong><div id="prefix-groups" class="prefix-groups" role="group" aria-label="按色系和色号开头勾选我有的颜色"></div></div>
+          </div>
+          <label class="owned-switch"><input id="only-owned" type="checkbox"><span><strong>只用我有的颜色推荐</strong><small id="owned-count">已勾选 0 支 · 保存在此浏览器</small></span></label>
+          <p class="hint">勾选一支后自动只用你有的颜色；关掉上面的开关可恢复全部。软硬档次筛选也会同时生效，四档共用同一套 144 色，不按色号区分。</p>
+          <div class="palette-tools"><input id="color-search" type="search" placeholder="搜索色号 / 中文 / 英文名" aria-label="搜索颜色"><button id="clear-owned" type="button">取消所有勾选</button></div>
+          <div id="palette-list" class="palette-list"></div>
+          <p id="scope-status" class="hint">正在加载本地色表…</p>
+          <p id="storage-warning" class="error" role="status"></p>
+          <details><summary>检查推荐速度（开发验证）</summary><p class="hint">用全部 237 色，连续找 5 个目标的三支配方。只在本页运行。</p><button id="benchmark" type="button">检查 5 个颜色的推荐速度</button><pre id="bench-output" role="status"></pre></details>
+        </div>
+      </details></div>
+      <div class="actions">
+        <button id="upload" class="primary" type="button">上传照片</button>
+        <input id="photo-file" class="file-input" type="file" accept="image/*" tabindex="-1">
+        <button id="example" type="button">用示例图</button>
+        <span class="hint">也可拖入图片，或粘贴截图</span>
+      </div>
+      <div id="photo-tools" class="photo-tools" hidden>
+        <div class="photo-modes" role="group" aria-label="照片取色模式">
+          <button id="photo-pick" type="button" aria-pressed="true">吸管</button>
+          <button id="photo-average" type="button" aria-pressed="false">框选平均</button>
+        </div>
+        <div class="photo-zoom" role="group" aria-label="照片缩放与平移">
+          <button id="photo-zoom-out" type="button" aria-label="缩小照片" disabled>−</button>
+          <output id="photo-zoom-value" aria-live="polite">100%</output>
+          <button id="photo-zoom-in" type="button" aria-label="放大照片">＋</button>
+          <button id="photo-zoom-reset" type="button">复位</button>
+          <button id="photo-pan" type="button" aria-pressed="false" disabled>平移</button>
+        </div>
+        <p class="hint">单指瞄准，松手自动出配方；双指捏合 / 移动照片。桌面放大后可点「平移」或右键拖动。</p>
+      </div>
+      <div id="white-balance-tools" class="white-balance-tools" hidden>
+        <div class="actions">
+          <button id="white-balance-pick" type="button" aria-pressed="false">校正灯光</button>
+          <span id="white-balance-status" role="status"></span>
+          <button id="white-balance-reset" type="button" hidden>取消校正</button>
+        </div>
+        <p class="hint">点一下照片里本来是白色或浅灰的地方，比如画四周的白纸</p>
+      </div>
+      <div class="image-stage" id="image-stage">
+        <div id="empty-image"><div class="empty-symbol">＋</div><strong>照片只在你的浏览器里处理，不会上传</strong><p>选图、拖入，或按 Ctrl / Cmd + V 粘贴截图<br>手机可拍照，也可从相册选</p></div>
+        <canvas id="photo" aria-label="照片默认吸管：按住或悬停看放大镜，松手取中心点并自动出配方。框选平均模式拖动选区。双指缩放平移；桌面可用平移按钮或右键拖动。方向键瞄准，回车取色；框选平均模式 Shift 加回车开始框选。" hidden></canvas>
+        <div id="selection" aria-hidden="true" hidden></div>
+      </div>
+      <div class="pick-strip"><p id="pick-info" class="hint" role="status">照片默认吸管，按住移动看放大镜，松手自动出配方。</p><small id="image-info"></small></div>
+      <div id="target-row" class="target-row" hidden>
+        <div id="target-swatch" class="target-swatch"></div>
+        <div><span class="eyebrow">你选的颜色</span><strong id="target-hex"></strong><span id="target-rgb"></span></div>
+        <button id="view-recipes" type="button">配方在②，点这里看</button>
+      </div>
+      <p id="photo-error" class="error" role="alert"></p>
+    </section>
+    <section class="results-section" aria-labelledby="results-title">
+      <div class="results-header"><h2 id="results-title">② 照这些配方试一小块</h2><small id="timing" class="timing"></small></div>
+      <p id="result-status" role="status" aria-live="polite">先点照片里的一个颜色，配方会出现在这里。</p>
+      <div id="results" class="recipes"></div>
+      <p class="hint result-footnote">预测只当试色起点。官网色块值，不是实测；纸张、光线、用力都会影响真油画棒的颜色。</p>
+    </section>
+    <section class="panel paint-panel" aria-labelledby="palette-title">
+      <h2 id="palette-title">③ 拿配方在白纸上试一块</h2>
+      <p class="hint">①设置的可用范围也用于这里。配方「拿来画」后，可用列表先显示这份配方；可切回全部颜色。颜色仍是预测，真油画棒请先试色。</p>
+      <div class="paint-toolbar" role="group" aria-label="白纸试色工具">
+        <button id="tool-brush" type="button" aria-pressed="true">油画棒</button>
+        <button id="tool-smudge" type="button" aria-pressed="false">揉擦白纸</button>
+        <button id="tool-paper-knife" type="button" aria-pressed="false">刮刀</button>
+        <label class="brush-mode">力度<select id="paper-pressure" aria-label="白纸工具力度"><option value="0.2">轻</option><option value="0.55" selected>中</option><option value="0.95">重</option></select></label>
+        <label class="brush-mode">粗细<input id="paper-size" type="range" min="14" max="96" value="45" aria-label="白纸工具粗细"></label>
+        <button id="tool-pick" type="button" aria-pressed="false">吸管</button>
+        <button id="palette-undo" type="button" disabled>撤销一步</button>
+        <button id="palette-clear" type="button">清空</button>
+      </div>
+      <p id="palette-status" class="hint" role="status" aria-live="polite"></p>
+      <div class="paint-workspace">
+        <aside class="paint-shelf" aria-label="可用油画棒">
+          <input id="paint-search" type="search" placeholder="搜索色号 / 中文名" aria-label="搜索白纸可用颜色">
+          <p id="paint-count" class="hint">正在加载本地色表…</p>
+          <div id="paint-colors" class="paint-colors"></div>
+          <button id="paint-show-all" type="button" hidden>显示全部可用颜色</button>
+        </aside>
+        <div><h3>白纸 <small>油画棒 / 揉擦 / 刮底层</small></h3><div class="paper-surface"><canvas id="paper-canvas" width="448" height="274" aria-label="白纸：油画棒涂色，揉擦推短尾，刮刀见底层；吸管放大镜取色"></canvas><span id="paper-cursor" class="paper-cursor" aria-hidden="true" hidden></span></div></div>
+      </div>
+      <p id="paint-selected" class="hint"></p>
+      <div id="picked-color" class="picked-color" hidden><span id="picked-swatch" class="mini-swatch"></span><code id="picked-hex" aria-live="polite"></code><button id="pick-recipe" type="button" disabled>拿这个颜色找配方</button></div>
+      <p class="hint">③吸管只取白纸上的颜色，可涂纸或点「拿这个颜色找配方」。①照片有独立吸管，松手直接出配方，不用切换白纸工具。白纸涂法沿用第 4 版，鼠标 / 手指按轻、中、重档，压感笔按实际压力。白纸只保存在此浏览器，刷新后还在；最多撤销最近 20 步，刷新后撤销历史不保留。</p>
+      <p id="palette-storage-warning" class="error" role="status"></p>
+    </section>
+  </div>
+  <details class="panel verification">
+    <summary>怎么拿真油画棒验证？</summary>
+    <ol class="verify-steps"><li><strong>挑一个颜色</strong><p>选照片上光线均匀、没有反光的一小块。没有全集？在“设置”里勾选你有的颜色。</p></li><li><strong>照配方试两小块</strong><p>“份”用同样大小的刮屑或涂抹面积估计。一块揉开混匀，另一块一层盖一层，按提示留出下层。</p></li><li><strong>对比实物</strong><p>看哪块更接近照片，也看哪种预测更像。记下纸张、压力和顺序；屏幕接近不等于实物一样。</p></li></ol>
+    <p class="hint">完整 237 色来自高尔乐官网色号表，整理于 2026-11-17。102 个色号跨系列色块不同，本次沿用官网首条值，原值均保留。真实推荐质量还需手涂确认。</p>
+  </details>
+  <footer>高尔乐油画棒配方试用版 · 照片不离开浏览器 · 先试色，再判断</footer>
+</main>
+<div id="pick-loupe" class="pick-loupe" aria-hidden="true" hidden><div class="pick-loupe-grid"><canvas id="pick-loupe-canvas" width="11" height="11"></canvas><span class="pick-loupe-center"></span></div><code id="pick-loupe-hex"></code></div>
+<div id="photo-loupe" class="pick-loupe" aria-hidden="true" hidden><div class="pick-loupe-grid"><canvas id="photo-loupe-canvas" width="11" height="11"></canvas><span class="pick-loupe-center"></span></div><span id="photo-loupe-swatch" class="loupe-swatch"></span><code id="photo-loupe-hex"></code></div>
+</body>
+</html>

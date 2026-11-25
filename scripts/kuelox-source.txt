@@ -1,0 +1,402 @@
+const P=[
+{id:'macaron',palette:'Kuelox Marcroon',products:['extra-soft','professional-soft','beginner-super-soft'],rows:`601|Cream|奶油|#FFFFFF
+602|Pale lemon|淡柠檬黄|#F9F5B5
+637|Pale lemon|明亮黄|#F4E937
+604|Pale ocher|香草|#F8EAAE
+603|Almond orange|杏仁橙|#EBC270
+638|Marigold|金盏花橘|#F7C86A
+605|Nougat|牛轧糖|#F7C4A5
+614|Misty blue|烟雨蓝|#7BB8D5
+613|Blueberry|蓝莓|#437898
+644|Indigo bunting|靛蓝彩雀|#2063AD
+617|Pistachio|开心果|#75BBC1
+618|Almond green|杏仁绿|#A4D7C6
+620|Mint|薄荷|#36ADB6
+645|Mojito|莫吉托|#2F9C85
+606|Light caramel|浅焦糖|#F7CDB8
+625|Orange soda|橘子汽水|#FBD978
+609|Earl grey tea|伯爵茶|#F3A17B
+610|California orange|加州橙|#E86C47
+639|Litchi pink|荔枝粉|#DC5A57
+640|Cranberry|蔓越莓|#963C45
+627|Sakura pink|樱花粉|#E7B2D1
+631|Avocado|牛油果|#F3F396
+646|Green shoots|初露|#C8DF83
+632|Green apple|青苹果|#7AC16F
+633|Light green grass|草绿|#5CAD4F
+619|Matcha|抹茶|#91B963
+647|Fresh spring tea|明前龙井|#AAA829
+634|Bean paste green|豆沙绿|#5E8E46
+628|Peach pink|桃子|#F9E1D8
+607|Pink rose|玫瑰粉|#EE92BA
+608|Pink strawberry|草莓粉|#D86D91
+624|Cherry|樱桃|#8C3659
+641|Wisteria|浅紫藤|#CBA7CC
+626|Balloon flower|桔梗|#ACB4DA
+629|Light azure violet|浅蔚蓝紫|#8E9CCE
+635|Milk tea|奶茶|#CBAF96
+648|Sandstone|砂岩褐|#A9674E
+621|Chocolate|巧克力|#9C757B
+622|Red bean paste|豆沙|#B79497
+623|Pale pink|藕粉|#D19DBB
+636|Misty gray|雾灰|#DADDE1
+611|Taro purple|香芋紫|#68539B
+642|Iris|鸢尾|#5D67AA
+612|Lavender|薰衣草|#8C90BE
+616|Sea salt|海盐|#B6CCD3
+630|Baby blue|婴儿蓝|#90C1E2
+615|Ocean blue|海洋|#75B7BC
+643|Feather blue|羽蓝|#4A6DA5`},
+{id:'classic',palette:'Kuelox Classic',products:['extra-soft','professional-soft','beginner-super-soft'],rows:`701|White|白色|#FFFFFF
+737|Ivory skin tone|肤色|#F8CEB1
+702|Buff|淡黄|#F6B789
+703|Naples yellow|拿蒲黄|#F7D68F
+704|Lemon yellow|柠檬黄|#F4EC65
+705|Yellow|黄色|#F7E931
+706|Cadmium yellow|镉黄|#F4CE26
+723|Green|绿色|#117F3F
+724|Yellow green|黄绿|#76BB45
+743|Light green|嫩绿|#B1D480
+725|Pale green|淡绿|#69C1C0
+726|Cerulean|天青|#1D87AE
+727|Light blue|浅蓝|#2375BF
+728|Sky blue|天蓝|#56AFE2
+707|Orangish yellow|橙黄|#F2972F
+708|Orange|橙色|#DE5425
+739|Orange red|橙红|#D93A2E
+709|Vermilion|朱红|#C12C37
+710|Red|红色|#A51E31
+740|Crimson|深红|#9A1F33
+711|Light magenta|浅品红|#CB5977
+729|Light blue purple|浅蓝紫|#787CBC
+730|Yellowish brown|黄褐|#C6881B
+731|Clay yellow|土黄|#7D572A
+732|Ochre|赭色|#964B2B
+744|Maroon|红褐|#A45453
+745|Burgundy|深酒红|#722934
+733|Reddish brown|红棕|#6C3133
+738|Light sakura pink|浅樱花粉|#F4B9CE
+712|Pink|粉红|#D981B2
+713|Pink rose|玫瑰粉|#B3266A
+714|Purple|紫色|#473073
+715|Violet|紫罗兰|#362D62
+741|Lake blue|湖蓝|#3055A5
+717|Ultramarine|群青|#234296
+746|Light brown|浅棕|#815B59
+734|Brown|铁棕|#40322F
+747|Burnt umber|褐色|#372E31
+748|Light grey|浅灰|#AEB3B9
+735|Grey|灰色|#808C96
+736|Black|黑色|#263033
+742|Ultramarine violet|深蓝紫|#263C92
+718|Cobalt blue|钴蓝|#0F4296
+716|Prussian blue|普蓝|#1D386B
+719|Bluish green|蓝绿|#1A4964
+720|Cadmium green|镉绿|#21473A
+721|Olive green|橄榄绿|#3A5E31
+722|Grass green|草绿|#32763B`},
+{id:'morandi',palette:'Kuelox Morandi',products:['extra-soft','professional-soft','beginner-super-soft'],rows:`806|Bud yellow|芽黄|#F3F496
+802|Vanilla|薄香|#FCF3D3
+807|Apricot yellow|杏黄|#F7DE7B
+808|Pine yellow|松木|#EBBE47
+825|Monk yellow|密陀僧黄|#DBB87F
+809|Light tan|淡漠驼|#BBA987
+810|Oat|燕麦|#CEB4A0
+824|Purple gray|紫灰|#723E6E
+831|Light gray blue|浅灰蓝|#AED5F4
+832|Ice blue|冰青蓝|#85CCD2
+818|Star blue|星蓝|#93C4E7
+844|Glacier blue|冰川蓝|#567BBE
+819|Haze blue|雾霾蓝|#526B80
+820|Late blue wave|晚波蓝|#568BA9
+801|Tender complexion|嫩肤|#FBDAC9
+837|Bright orange|亮橙|#F4B380
+838|Persimmon orange|柿子橙|#E9633F
+826|Brassiness|黄铜|#D2987C
+811|Mandarin red|柑橘红|#D07742
+812|Auburn|茶褐|#9A7574
+839|Rice gray|米灰|#978987
+833|Sapphire grey|宝石蓝灰|#4A7E9F
+845|Atlantic blue|大西洋蓝|#1E3D8B
+813|Egg shell|蛋壳绿|#BEDB98
+814|Pine frost green|松霜|#90CFC4
+815|Shimbashi|新桥|#58BEBB
+816|Scuba green|水浅葱|#558E98
+834|Ome|青梅|#6BBD85
+828|Sakura rain|樱落|#B4A2A0
+805|Althea flower|木槿|#D08BB0
+803|Blushing coral|嫣红|#E58095
+804|Begonia|海棠|#E55F62
+840|Hawthorn red|山楂红|#D14441
+822|Light rose pink|柔粉|#948393
+827|Rust red|铁锈红|#71566C
+835|Light grass green|浅草绿|#A9C374
+817|Grey bean green|豆绿灰|#649666
+846|Rainforest green|雨林绿|#1C5962
+847|Emerald green|祖母绿|#1E5046
+836|Oyster mushroom|杏鲍菇灰|#B4BED1
+848|Gray blue|寒江雪|#ACC2D6
+841|Mineralsoil red|矿土红|#7E3537
+823|Dark brick red|暗砖红|#954B59
+842|Raw umber|土棕|#664945
+829|Lilac|丁香紫|#957EB7
+821|Light violet|浅紫|#604A99
+843|Starry sky purple|星空紫|#33326C
+830|Shell purple mushroom|贝壳紫|#53588F`},
+{id:'china',palette:'Chinese Traditional Colors',products:['chinese-traditional'],rows:`101|Plain|素|#FFFFFF
+132|Dreamlike command|如梦令|#FFEDB2
+128|Wandering yellow and white|莺白|#FAF172
+129|Goose yellow|鹅黄|#FEF47B
+130|Gamboge|藤黄|#FCD820
+126|Autumn fragrance|秋香|#F4CD7E
+127|Glaze|琉璃|#F6CC3C
+105|Yellow liquidambar|黄栌|#C68814
+106|Streaming yellow|流黄|#5B4026
+107|Amber|琥珀|#D27031
+139|Red rosy sky|赤霞|#F6B77D
+147|Apricot yellow|杏黄|#EA631B
+146|Red persimmon|朱柿|#F19625
+143|Rouge|胭脂|#C3262A
+144|Coral red|珊瑚红|#9E1F27
+145|Magenta|品红|#B01268
+140|Peach red|桃红|#DB75A6
+142|Camellia|山茶|#EA8A9C
+148|Sakura|樱花|#EFA4B6
+141|Smoke red|烟红|#CE8AB6
+131|Lotus root silk|藕丝|#C07E81
+135|Aloeswood|沉香|#9E7271
+137|Dark purple|绛紫|#7C2E3B
+138|Antique bronze purple|古铜紫|#6F294F
+122|Antique cyan|青古|#BBDFD8
+120|Jadeite|翡翠|#53BDC5
+117|Blue wave|沧浪|#309AA8
+110|Dark blue|黛蓝|#3C657B
+121|Pea green|豆青|#82BF72
+125|Light green|葱绿|#5CB44E
+123|Bamboo bark|竹青|#2B6131
+136|Coal black|炭黑|#15171A
+124|Bamboo green|官绿|#097B40
+115|Stone green|石绿|#1E3C32
+114|Deep Bamboo Moon|深竹月|#1293BA
+118|Cyan-blue|天青|#85CEF2
+116|Xinglang|星朗|#BCE4F8
+109|Dusk mountain purple|暮山紫|#808CC2
+112|Indigo blue|靛蓝|#124096
+111|Peacock blue|孔雀蓝|#1B357D
+113|Verdant City|碧城|#1D2F68
+108|Purple bulrush|紫蒲|#3C2970
+119|Deep purple|黛紫|#242858
+133|Honey mixture|蜜合|#BBA987
+134|Calamine|甘石|#D2B6A1
+104|Red sandalwood|紫檀|#542526
+103|Chestnut shell|栗壳|#4A3937
+102|Ink gray|墨灰|#627486`},
+{id:'selected',palette:'Selected 72',products:['selected-72'],rows:`211|Violet|紫罗兰|#512866
+220|Deep blue|深蓝|#24375E
+219|Prussian blue|普鲁士蓝|#17293A
+247|Deep grey|深灰|#555A5B`},
+{id:'sky-classic',group:'classic',palette:'Skyists Classic',products:['skyists'],rows:`701|White|白色|#FFFFFF
+704|Lemon yellow|柠檬黄|#FFFB65
+705|Yellow|黄色|#FFED03
+703|Naples yellow|拿坡里黄|#FDF0BA
+706|Cadmium yellow|镉黄|#FEC90B
+737|Salmon|肤色|#FDC8AD
+702|Peach fuzz|杏粉色|#FEB08A
+723|Green|绿色|#057231
+752|Chrysoprase|玉石绿|#07BD8D
+724|Yellow green|黄绿|#8FDF0C
+743|Sharp green|嫩绿|#CCFEA6
+753|Neo mint|浅绿|#DFFEEC
+722|Deep grass green|草绿|#1C7332
+754|Rifle green|橄榄绿|#30402D
+707|Flame orange|橙黄|#FDA810
+708|Orange|橙色|#FE7034
+711|Light magenta|浅品红|#EF678D
+713|Pink rose|玫瑰粉|#B11B71
+709|Vermilion|朱红|#E4281D
+710|Red|大红|#A00323
+740|Cardinal|深红|#911135
+755|Turf green|绿灰|#40623F
+730|Golden brown|黄褐|#85551C
+731|Yellow ochre|土黄|#E7A30C
+732|Sienna|赭色|#8D3730
+756|Rose taupe|绯褐色|#774257
+733|Fired brick|红棕|#552829
+734|Sepia|铁棕|#332B27
+714|Purple|紫色|#71339E
+749|Italian plum|意大利梅子|#483064
+741|Cornflower blue|矢车菊蓝|#3155DD
+717|Ultramarine|群青|#0741C6
+716|Indigo|普蓝|#1D2754
+718|Cobalt blue|钴蓝|#0545C1
+727|Light blue|浅蓝|#0598FD
+747|Chocolate brown|褐色|#393737
+757|Bronze brown|棕绿色|#866A3C
+758|Dark olive|橄榄棕|#484234
+735|Grey|灰色|#868686
+759|Poppy seed|深灰色|#4F5856
+736|Black|黑色|#17191B
+726|Aqua sky|天青|#08D6DB
+728|Sky blue|天蓝|#08C2FE
+725|Lutice green|淡绿|#0ADFE5
+720|Cadmium green|镉绿|#213A32
+719|Green-blue slate|蓝绿|#155664
+750|Emerald green|翠绿|#175843
+751|Emerald green light|浅翠绿|#05805F`},
+{id:'sky-marcroon',group:'macaron',palette:'Skyists Marcroon',products:['skyists'],rows:`601|Cream|奶油|#F0F0EE
+602|Light lemon|淡柠檬黄|#F2EF9D
+649|Pastel yellow|奶油黄|#EFEC9A
+637|Bright yellow|明亮黄|#EFE65A
+650|Mimosa|含羞草黄|#EABC38
+603|Mellow yellow|杏仁橙|#F8E2B2
+638|Pale marigold|金盏花橘|#F4BB57
+658|Classic blue|经典蓝|#2D4078
+659|Midnight|午夜蓝|#2A3555
+660|Shakespeare|薄荷蓝|#2794BC
+618|Carnival glass|嘉年华玻璃|#82CCC7
+620|Peacock green|孔雀绿|#299D9C
+645|Irish green|爱尔兰绿|#2C7B57
+661|Colibri|蜂鸟绿|#28403E
+635|Milk tea|奶茶|#D8B194
+625|Orange soda|橘子汽水|#FBC372
+610|California orange|加州橙|#E35940
+639|Litchi pink|荔枝粉|#D14C44
+651|Flu. red|荧光红|#EE5A7E
+640|Cranberry|蔓越莓|#8A343B
+652|Cherry blossom|樱花粉|#F3B4CC
+646|Misty jade|初露|#C6DFB3
+631|Chartreuse yellow|牛油果|#AED367
+662|Bright chartreuse|柠檬绿|#BECB3F
+663|Neon green|荧光绿|#6ABD53
+633|Light green grass|浅草绿|#377A42
+634|Greenery|豆沙绿|#5E995A
+619|Matcha|抹茶|#87B154
+627|Neon sakura pink|荧光樱花粉|#F2A5C7
+653|Neon pink|荧光粉|#D783B5
+654|Honeysuckle|忍冬红|#C44477
+624|Cherry|樱桃红|#992A57
+623|Pale pink|藕粉|#D5A7CA
+655|Radiant orchid|兰花紫|#613969
+611|Chalk violet|香芋紫|#614F9F
+647|Linden green|明前龙井|#9C9B3D
+664|Peat moss|苔藓绿|#595A3C
+636|Misty gray|雾灰|#CFD1D6
+665|Ultimate|深灰|#7E8792
+666|Moonless night|无月之夜|#33373D
+667|Black|黑色|#151719
+642|Iris|鸢尾|#48519E
+656|Very peri|长春花蓝|#323162
+612|Lavender|薰衣草|#7489C1
+657|Ethereal blue|以太蓝|#548DC7
+616|Saltwater slide|海盐|#AFCFE9
+615|Hawaiian ocean|海洋|#50BEEA
+614|Misty blue|烟雨蓝|#71BAD8`},
+{id:'sky-morandi',group:'morandi',palette:'Skyists Morandi',products:['skyists'],rows:`849|Shell white|贝壳白|#EFE7EA
+850|Young wheat|嫩麦|#ECE5AF
+802|Minion yellow|小黄人|#FBF1DA
+807|Apricot yellow|杏黄|#F7DA7E
+808|Daisy daze|雏菊黄|#F3C634
+825|Desert dust|密陀僧黄|#E6AB63
+809|Mojave desert|淡漠驼|#B0A07D
+818|Comet sea star|星蓝|#A0D4F2
+845|Atlantic blue|大西洋蓝|#1D3868
+852|After midnight|午夜蓝|#43515D
+853|Dark cool gray|深冷灰|#2F3B40
+819|Abyss|雾霾蓝|#34484F
+833|Blue sapphire|宝石蓝灰|#165681
+820|Wave ride|晚波蓝|#3C9BB3
+810|Oat|燕麦|#D6B69D
+801|White smoke|嫩肤|#F8CEB0
+837|Pale marigold|亮橙|#F5B16A
+811|Mandarin orange|柑橘红|#D86D23
+851|Sandstone|砂岩褐|#AB5D45
+826|Rose gold|玫瑰金|#E4A882
+838|Persimmon orange|柿子橙|#E95924
+832|Ice blue|冰青蓝|#89CED4
+816|Verdigris|水浅葱绿|#2D8389
+813|Bird's egg green|蛋壳绿|#C6DCB2
+814|Bondi mint|松霜|#7CC59C
+834|Ome|青梅|#68BA68
+817|Matte green|绿灰|#47684F
+854|Olive|橄榄灰|#333927
+803|Blushing coral|嫣红|#E9738E
+804|Begonia|海棠|#E54F58
+840|Vermilion|山楂红|#CB3624
+827|Rust red|铁锈红|#8F484A
+812|Old rose|茶褐|#B89599
+839|Purple brown|紫棕|#7D6E72
+828|Sakura rain|樱落|#EAC4D9
+855|Pine needle|松针绿|#2E5148
+856|Beige grey|米灰|#DCD6D0
+848|Plein air|寒江雪|#A4C3D6
+857|Gold|金色|#EED38F
+858|Sockeye salmon|鲑鱼红|#B56146
+859|Black galaxy|黑金沙|#36373B
+822|Silver pink|银粉|#CF90A8
+823|Brick red|暗砖红|#65273C
+824|Sparkling grape|葡萄紫|#5C3255
+829|Lilac|丁香紫|#A090C0
+843|Starry sky purple|星空紫|#1E254F
+830|Twining purple|贝壳紫|#454686
+831|Baby blue|浅灰蓝|#B2DAF1`}
+];
+
+const selectedShared=new Set('701 802 703 704 705 706 638 808 825 810 730 731 809 801 609 625 707 610 739 826 732 628 627 607 608 639 710 624 822 621 623 744 733 734 641 829 821 729 824 830 616 630 615 728 726 643 614 644 717 613 833 725 743 724 634 619 647 722 723 617 645 846 746 747 748 836 735 736'.split(' '));
+const productDefs=[
+  {id:'all',label:'All Products'},
+  {id:'extra-soft',label:'Extra Soft'},
+  {id:'professional-soft',label:'Professional Grade'},
+  {id:'beginner-super-soft',label:'Beginner Grade'},
+  {id:'selected-72',label:'Selected 72 Wood Box'},
+  {id:'chinese-traditional',label:'Chinese Traditional Colors'},
+  {id:'skyists',label:'Skyists Ultra Soft'}
+];
+const paletteDefs=[
+  {id:'all',label:'All Palettes'},
+  {id:'macaron',label:'Marcroon Colors'},
+  {id:'classic',label:'Classic Colors'},
+  {id:'morandi',label:'Morandi Colors'}
+];
+const productLabels=Object.fromEntries(productDefs.map(x=>[x.id,x.label]));
+const paletteLabels=Object.fromEntries(paletteDefs.map(x=>[x.id,x.label]));
+const colorByCode=new Map();
+P.forEach(p=>p.rows.trim().split('\n').forEach((line,i)=>{
+  const [code,en,zh,hex]=line.split('|'),paletteId=p.group||p.id,memberships=[...p.products];
+  if(['macaron','classic','morandi'].includes(p.id)&&selectedShared.has(code))memberships.push('selected-72');
+  const existing=colorByCode.get(code);
+  if(existing){
+    existing.products=[...new Set([...existing.products,...memberships])];
+    existing.paletteIds=[...new Set([...existing.paletteIds,paletteId])];
+    existing.sources=[...new Set([...existing.sources,p.id])];
+    existing.aliases.push(`${en} ${zh}`);
+  }else colorByCode.set(code,{id:`color-${code}`,sourceId:p.id,code,en,zh,hex,paletteIds:[paletteId],sources:[p.id],aliases:[`${en} ${zh}`],products:[...new Set(memberships)]});
+}));
+const colors=[...colorByCode.values()];
+
+/* Curated by shade identity and product chart—not inferred from RGB/HSL. */
+const familyRules={
+  macaron:{
+    'Cream & Ivory':'601 604','Skin & Nude':'605 606 635','Yellow':'602 637','Ochre & Mustard':'638','Orange':'625 609 610','Peach & Apricot':'603 628','Coral':'639','Crimson & Burgundy':'640 624','Pink':'627 623','Rose & Magenta':'607 608','Lavender & Lilac':'641 626 629 612','Purple & Violet':'611 642','Sky & Light Blue':'614 616 630','Blue':'613 643','Navy & Indigo':'644','Teal & Turquoise':'617 620 615','Mint & Aqua':'618','Green':'645 632 633','Yellow Green':'631 646','Olive & Moss':'619 647 634','Brown & Earth':'648 621 622','Grey & Neutral':'636'
+  },
+  classic:{
+    'White':'701','Skin & Nude':'737 702','Yellow':'703 704 705 706','Ochre & Mustard':'730 731 732','Orange':'707 708 739','Red':'709 710','Crimson & Burgundy':'740 745','Pink':'738 712','Rose & Magenta':'711 713','Lavender & Lilac':'729','Purple & Violet':'714 715 742','Sky & Light Blue':'727 728','Blue':'741 717 718','Navy & Indigo':'716','Teal & Turquoise':'726 719','Mint & Aqua':'725','Green':'723 720 722','Yellow Green':'724 743','Olive & Moss':'721','Brown & Earth':'744 733 746 734 747','Grey & Neutral':'748 735','Black':'736'
+  },
+  morandi:{
+    'Cream & Ivory':'802','Skin & Nude':'809 810 801','Yellow':'806 807','Ochre & Mustard':'808 825','Orange':'837 838 811','Peach & Apricot':'826','Coral':'803','Red':'804 840','Crimson & Burgundy':'827 841 823','Pink':'828 805','Rose & Magenta':'822','Lavender & Lilac':'829 821 830','Purple & Violet':'824 843','Sky & Light Blue':'831 818 848','Blue':'844 819 820 833','Navy & Indigo':'845','Teal & Turquoise':'815 816 846','Mint & Aqua':'832 814','Green':'834 847','Yellow Green':'813 835','Olive & Moss':'817','Brown & Earth':'812 842','Grey & Neutral':'839 836'
+  },
+  china:{
+    'White':'101','Cream & Ivory':'132 128','Skin & Nude':'134 131','Yellow':'129','Ochre & Mustard':'127 126 130 106 105','Orange':'146 107','Peach & Apricot':'139 147','Coral':'144','Red':'143','Pink':'148','Rose & Magenta':'145 142 141 140','Lavender & Lilac':'109','Purple & Violet':'138 119 108 137','Sky & Light Blue':'116 118','Blue':'111','Navy & Indigo':'110 113 112','Teal & Turquoise':'117 114 120','Mint & Aqua':'122','Green':'124 125 115','Yellow Green':'121','Olive & Moss':'123','Brown & Earth':'103 133 104 135','Grey & Neutral':'102','Black':'136'
+  },
+  selected:{
+    'Purple & Violet':'211','Navy & Indigo':'220 219','Grey & Neutral':'247'
+  },
+  'sky-classic':{
+    'White':'701','Skin & Nude':'737 702','Yellow':'704 705 703 706','Ochre & Mustard':'730 731','Orange':'707 708','Red':'709 710','Crimson & Burgundy':'740','Rose & Magenta':'711 713','Purple & Violet':'714 749','Sky & Light Blue':'727 728','Blue':'741 717 718','Navy & Indigo':'716','Teal & Turquoise':'752 726 719','Mint & Aqua':'753 725','Green':'723 722 720 750 751','Yellow Green':'724 743','Olive & Moss':'754 755 758','Brown & Earth':'732 756 733 734 747 757','Grey & Neutral':'735 759','Black':'736'
+  },
+  'sky-marcroon':{
+    'Cream & Ivory':'601 603','Skin & Nude':'635','Yellow':'602 649 637 650','Ochre & Mustard':'638','Orange':'625 610','Coral':'639','Red':'651','Crimson & Burgundy':'640 624','Pink':'652 627 653 623','Rose & Magenta':'654','Lavender & Lilac':'612','Purple & Violet':'655 611 642 656','Sky & Light Blue':'657 616 614','Blue':'658','Navy & Indigo':'659','Teal & Turquoise':'660 618 620 615','Green':'645 661 633 634','Yellow Green':'646 631 662 663','Olive & Moss':'619 647 664','Grey & Neutral':'636 665 666','Black':'667'
+  },
+  'sky-morandi':{
+    'White':'849','Cream & Ivory':'850 802','Skin & Nude':'809 810 801 826','Yellow':'807','Ochre & Mustard':'808 825','Orange':'837 811 838','Red':'804 840 858','Crimson & Burgundy':'827 823','Pink':'803 828 822','Rose & Magenta':'812','Lavender & Lilac':'829','Purple & Violet':'824 843 830','Sky & Light Blue':'818 831 848','Blue':'833 820','Navy & Indigo':'845 852','Teal & Turquoise':'832 816','Mint & Aqua':'813 814','Green':'834 817 855','Olive & Moss':'854','Brown & Earth':'851 839','Grey & Neutral':'853 819 856','Black':'859','Metallic':'857'
+  }
+};

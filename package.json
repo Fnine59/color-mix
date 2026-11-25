@@ -1,0 +1,12 @@
+{
+  "name": "color-mix",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "bench": "node scripts/bench.cjs",
+    "data": "python3 scripts/build-data.py"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^1.1.1"
+  }
+}

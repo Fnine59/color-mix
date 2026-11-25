@@ -1,0 +1,104 @@
+{
+  "cases": {
+    "three": {
+      "before": {
+        "before": {
+          "pixels": "8b1dd18b1b09b0301a454b562aa893f05212754a65e2cb21d1d04b42b9023615",
+          "mass": "cdeae3e4798294dcfa144cb9c5523c771f0bcbba9a8c07ce5b2ba5489cdaae2f",
+          "snapshot": "18a0ca98b1aa96a79446b17877c79cc58ac3ea5a3da5c1701f0eff9fc7756bca"
+        },
+        "after": {
+          "pixels": "13b2a132a106c0ccd9922c5ab433dd8e794f848b6371e25fd620ea3f46205ee2",
+          "mass": "35087328b3432afc75f3498d594be4f62c2e4d1571eded0553160e54e785da80",
+          "snapshot": "a40c182884e1cf15fda8f4b42b6dce70c2abe16624f9868fabe87df5e34db8be"
+        },
+        "passes": [
+          {
+            "pixels": "13b2a132a106c0ccd9922c5ab433dd8e794f848b6371e25fd620ea3f46205ee2",
+            "mass": "35087328b3432afc75f3498d594be4f62c2e4d1571eded0553160e54e785da80",
+            "snapshot": "a40c182884e1cf15fda8f4b42b6dce70c2abe16624f9868fabe87df5e34db8be"
+          }
+        ],
+        "cpuMs": {
+          "n": 3,
+          "sum": 5914.028239,
+          "mean": 1971.3427463333335,
+          "p50": 1906.5906949999999,
+          "p95": 2174.727323,
+          "p99": 2174.727323,
+          "max": 2174.727323
+        }
+      }
+    },
+    "cover": {
+      "before": {
+        "before": {
+          "pixels": "4c8c4d3019703a4d6f6a4d7a371eb524d6a3f59da23b91d50404df3cadb7da4c",
+          "mass": "3d333df4062e94e4e9f31c96a51e54b8cac1653a068d7d21403dbd998f741205",
+          "snapshot": "abffa495d712cdc484c618dd9a445ed0955818db7ec648303a1ef768bf723caa"
+        },
+        "after": {
+          "pixels": "0485b5ed702f8bb9106828af5d9aaaf5adbbaece0675227f1808ec3c323b36ca",
+          "mass": "e6dada32dd17ed8e376eeb502f762686366d12ff60c4a4122403552082ffb3ba",
+          "snapshot": "83324e4b01f6ad83f315529c8de9b81c6a5686975131ce7f425bd58acbe8c221"
+        },
+        "passes": [
+          {
+            "pixels": "0485b5ed702f8bb9106828af5d9aaaf5adbbaece0675227f1808ec3c323b36ca",
+            "mass": "e6dada32dd17ed8e376eeb502f762686366d12ff60c4a4122403552082ffb3ba",
+            "snapshot": "83324e4b01f6ad83f315529c8de9b81c6a5686975131ce7f425bd58acbe8c221"
+          }
+        ],
+        "cpuMs": {
+          "n": 3,
+          "sum": 1861.6791210000029,
+          "mean": 620.5597070000009,
+          "p50": 607.88825,
+          "p95": 651.0274520000003,
+          "p99": 651.0274520000003,
+          "max": 651.0274520000003
+        }
+      }
+    },
+    "repeat": {
+      "before": {
+        "before": {
+          "pixels": "8b1dd18b1b09b0301a454b562aa893f05212754a65e2cb21d1d04b42b9023615",
+          "mass": "cdeae3e4798294dcfa144cb9c5523c771f0bcbba9a8c07ce5b2ba5489cdaae2f",
+          "snapshot": "18a0ca98b1aa96a79446b17877c79cc58ac3ea5a3da5c1701f0eff9fc7756bca"
+        },
+        "after": {
+          "pixels": "859699657566a3959db856322409aabe45bc1df0500f1fa35737ea3fa38efe45",
+          "mass": "0824856550cc97ce3841ce06df9c03d349489bc77ec6a8fb0e02a687b64cd948",
+          "snapshot": "149796f0fe4896c89477de173483c41f1736be9d151b7c71f3f5445e292e6402"
+        },
+        "passes": [
+          {
+            "pixels": "13b2a132a106c0ccd9922c5ab433dd8e794f848b6371e25fd620ea3f46205ee2",
+            "mass": "35087328b3432afc75f3498d594be4f62c2e4d1571eded0553160e54e785da80",
+            "snapshot": "a40c182884e1cf15fda8f4b42b6dce70c2abe16624f9868fabe87df5e34db8be"
+          },
+          {
+            "pixels": "ae488aaf51cc4b55d76000ecf90decdd22f1085c15f921c765c6c9e16c690733",
+            "mass": "a3086c110dfaf33292afc712b61050b4e7187bdd9e129f4bed92f8b4a320b9de",
+            "snapshot": "29f7f73ab222d8d74e6bcc037d1de211f18e216c2ef51ee989a6d1007ca8310d"
+          },
+          {
+            "pixels": "859699657566a3959db856322409aabe45bc1df0500f1fa35737ea3fa38efe45",
+            "mass": "0824856550cc97ce3841ce06df9c03d349489bc77ec6a8fb0e02a687b64cd948",
+            "snapshot": "149796f0fe4896c89477de173483c41f1736be9d151b7c71f3f5445e292e6402"
+          }
+        ],
+        "cpuMs": {
+          "n": 3,
+          "sum": 13509.832389999992,
+          "mean": 4503.277463333331,
+          "p50": 4527.1842539999925,
+          "p95": 4554.478378,
+          "p99": 4554.478378,
+          "max": 4554.478378
+        }
+      }
+    }
+  }
+}

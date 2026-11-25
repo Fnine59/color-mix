@@ -1,0 +1,7808 @@
+{
+  "source": "https://kueloxvibelab.com/pages/color-codes-index",
+  "retrieved": "2026-11-17",
+  "sourceSha256": "3acc5ef71de54315b0cde8513b714c9874a43b9f0de5906cb5b567e2ce136683",
+  "valueNote": "官网色块值，不是实测。同色号跨系列色块不同，沿用官网首条优先的合并规则，variants 保留全部原值。",
+  "expectedCount": 237,
+  "count": 237,
+  "missingCodes": [],
+  "conflictingCodes": [
+    "601",
+    "602",
+    "603",
+    "610",
+    "611",
+    "612",
+    "614",
+    "615",
+    "616",
+    "618",
+    "619",
+    "620",
+    "623",
+    "624",
+    "625",
+    "627",
+    "631",
+    "633",
+    "634",
+    "635",
+    "636",
+    "637",
+    "638",
+    "639",
+    "640",
+    "642",
+    "645",
+    "646",
+    "647",
+    "702",
+    "703",
+    "704",
+    "705",
+    "706",
+    "707",
+    "708",
+    "709",
+    "710",
+    "711",
+    "713",
+    "714",
+    "716",
+    "717",
+    "718",
+    "719",
+    "720",
+    "722",
+    "723",
+    "724",
+    "725",
+    "726",
+    "727",
+    "728",
+    "730",
+    "731",
+    "732",
+    "733",
+    "734",
+    "735",
+    "736",
+    "737",
+    "740",
+    "741",
+    "743",
+    "747",
+    "801",
+    "802",
+    "803",
+    "804",
+    "807",
+    "808",
+    "809",
+    "810",
+    "811",
+    "812",
+    "813",
+    "814",
+    "816",
+    "817",
+    "818",
+    "819",
+    "820",
+    "822",
+    "823",
+    "824",
+    "825",
+    "826",
+    "827",
+    "828",
+    "829",
+    "830",
+    "831",
+    "832",
+    "833",
+    "834",
+    "837",
+    "838",
+    "839",
+    "840",
+    "843",
+    "845",
+    "848"
+  ],
+  "products": [
+    {
+      "id": "extra-soft",
+      "label": "Extra Soft · 超软"
+    },
+    {
+      "id": "professional-soft",
+      "label": "Professional Grade · 专业"
+    },
+    {
+      "id": "beginner-super-soft",
+      "label": "Beginner Grade · 入门"
+    },
+    {
+      "id": "selected-72",
+      "label": "Selected 72 · 木盒"
+    },
+    {
+      "id": "chinese-traditional",
+      "label": "Chinese Traditional · 中国传统色"
+    },
+    {
+      "id": "skyists",
+      "label": "Skyists Ultra Soft · 艺术家超软"
+    }
+  ],
+  "colors": [
+    {
+      "code": "601",
+      "nameEn": "Cream",
+      "nameZh": "奶油",
+      "hex": "#FFFFFF",
+      "family": "Cream & Ivory",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Cream",
+          "nameZh": "奶油",
+          "hex": "#FFFFFF",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Cream",
+          "nameZh": "奶油",
+          "hex": "#F0F0EE",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "602",
+      "nameEn": "Pale lemon",
+      "nameZh": "淡柠檬黄",
+      "hex": "#F9F5B5",
+      "family": "Yellow",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Pale lemon",
+          "nameZh": "淡柠檬黄",
+          "hex": "#F9F5B5",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Light lemon",
+          "nameZh": "淡柠檬黄",
+          "hex": "#F2EF9D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "637",
+      "nameEn": "Pale lemon",
+      "nameZh": "明亮黄",
+      "hex": "#F4E937",
+      "family": "Yellow",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Pale lemon",
+          "nameZh": "明亮黄",
+          "hex": "#F4E937",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Bright yellow",
+          "nameZh": "明亮黄",
+          "hex": "#EFE65A",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "604",
+      "nameEn": "Pale ocher",
+      "nameZh": "香草",
+      "hex": "#F8EAAE",
+      "family": "Cream & Ivory",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Pale ocher",
+          "nameZh": "香草",
+          "hex": "#F8EAAE",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "603",
+      "nameEn": "Almond orange",
+      "nameZh": "杏仁橙",
+      "hex": "#EBC270",
+      "family": "Peach & Apricot",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Almond orange",
+          "nameZh": "杏仁橙",
+          "hex": "#EBC270",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Mellow yellow",
+          "nameZh": "杏仁橙",
+          "hex": "#F8E2B2",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "638",
+      "nameEn": "Marigold",
+      "nameZh": "金盏花橘",
+      "hex": "#F7C86A",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Marigold",
+          "nameZh": "金盏花橘",
+          "hex": "#F7C86A",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Pale marigold",
+          "nameZh": "金盏花橘",
+          "hex": "#F4BB57",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "605",
+      "nameEn": "Nougat",
+      "nameZh": "牛轧糖",
+      "hex": "#F7C4A5",
+      "family": "Skin & Nude",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Nougat",
+          "nameZh": "牛轧糖",
+          "hex": "#F7C4A5",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "614",
+      "nameEn": "Misty blue",
+      "nameZh": "烟雨蓝",
+      "hex": "#7BB8D5",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Misty blue",
+          "nameZh": "烟雨蓝",
+          "hex": "#7BB8D5",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Misty blue",
+          "nameZh": "烟雨蓝",
+          "hex": "#71BAD8",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "613",
+      "nameEn": "Blueberry",
+      "nameZh": "蓝莓",
+      "hex": "#437898",
+      "family": "Blue",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Blueberry",
+          "nameZh": "蓝莓",
+          "hex": "#437898",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "644",
+      "nameEn": "Indigo bunting",
+      "nameZh": "靛蓝彩雀",
+      "hex": "#2063AD",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Indigo bunting",
+          "nameZh": "靛蓝彩雀",
+          "hex": "#2063AD",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "617",
+      "nameEn": "Pistachio",
+      "nameZh": "开心果",
+      "hex": "#75BBC1",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Pistachio",
+          "nameZh": "开心果",
+          "hex": "#75BBC1",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "618",
+      "nameEn": "Almond green",
+      "nameZh": "杏仁绿",
+      "hex": "#A4D7C6",
+      "family": "Mint & Aqua",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Almond green",
+          "nameZh": "杏仁绿",
+          "hex": "#A4D7C6",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Carnival glass",
+          "nameZh": "嘉年华玻璃",
+          "hex": "#82CCC7",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "620",
+      "nameEn": "Mint",
+      "nameZh": "薄荷",
+      "hex": "#36ADB6",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Mint",
+          "nameZh": "薄荷",
+          "hex": "#36ADB6",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Peacock green",
+          "nameZh": "孔雀绿",
+          "hex": "#299D9C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "645",
+      "nameEn": "Mojito",
+      "nameZh": "莫吉托",
+      "hex": "#2F9C85",
+      "family": "Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Mojito",
+          "nameZh": "莫吉托",
+          "hex": "#2F9C85",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Irish green",
+          "nameZh": "爱尔兰绿",
+          "hex": "#2C7B57",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "606",
+      "nameEn": "Light caramel",
+      "nameZh": "浅焦糖",
+      "hex": "#F7CDB8",
+      "family": "Skin & Nude",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Light caramel",
+          "nameZh": "浅焦糖",
+          "hex": "#F7CDB8",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "625",
+      "nameEn": "Orange soda",
+      "nameZh": "橘子汽水",
+      "hex": "#FBD978",
+      "family": "Orange",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Orange soda",
+          "nameZh": "橘子汽水",
+          "hex": "#FBD978",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Orange soda",
+          "nameZh": "橘子汽水",
+          "hex": "#FBC372",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "609",
+      "nameEn": "Earl grey tea",
+      "nameZh": "伯爵茶",
+      "hex": "#F3A17B",
+      "family": "Orange",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Earl grey tea",
+          "nameZh": "伯爵茶",
+          "hex": "#F3A17B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "610",
+      "nameEn": "California orange",
+      "nameZh": "加州橙",
+      "hex": "#E86C47",
+      "family": "Orange",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "California orange",
+          "nameZh": "加州橙",
+          "hex": "#E86C47",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "California orange",
+          "nameZh": "加州橙",
+          "hex": "#E35940",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "639",
+      "nameEn": "Litchi pink",
+      "nameZh": "荔枝粉",
+      "hex": "#DC5A57",
+      "family": "Coral",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Litchi pink",
+          "nameZh": "荔枝粉",
+          "hex": "#DC5A57",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Litchi pink",
+          "nameZh": "荔枝粉",
+          "hex": "#D14C44",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "640",
+      "nameEn": "Cranberry",
+      "nameZh": "蔓越莓",
+      "hex": "#963C45",
+      "family": "Crimson & Burgundy",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Cranberry",
+          "nameZh": "蔓越莓",
+          "hex": "#963C45",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Cranberry",
+          "nameZh": "蔓越莓",
+          "hex": "#8A343B",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "627",
+      "nameEn": "Sakura pink",
+      "nameZh": "樱花粉",
+      "hex": "#E7B2D1",
+      "family": "Pink",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Sakura pink",
+          "nameZh": "樱花粉",
+          "hex": "#E7B2D1",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Neon sakura pink",
+          "nameZh": "荧光樱花粉",
+          "hex": "#F2A5C7",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "631",
+      "nameEn": "Avocado",
+      "nameZh": "牛油果",
+      "hex": "#F3F396",
+      "family": "Yellow Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Avocado",
+          "nameZh": "牛油果",
+          "hex": "#F3F396",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Chartreuse yellow",
+          "nameZh": "牛油果",
+          "hex": "#AED367",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "646",
+      "nameEn": "Green shoots",
+      "nameZh": "初露",
+      "hex": "#C8DF83",
+      "family": "Yellow Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Green shoots",
+          "nameZh": "初露",
+          "hex": "#C8DF83",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Misty jade",
+          "nameZh": "初露",
+          "hex": "#C6DFB3",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "632",
+      "nameEn": "Green apple",
+      "nameZh": "青苹果",
+      "hex": "#7AC16F",
+      "family": "Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Green apple",
+          "nameZh": "青苹果",
+          "hex": "#7AC16F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "633",
+      "nameEn": "Light green grass",
+      "nameZh": "草绿",
+      "hex": "#5CAD4F",
+      "family": "Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Light green grass",
+          "nameZh": "草绿",
+          "hex": "#5CAD4F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Light green grass",
+          "nameZh": "浅草绿",
+          "hex": "#377A42",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "619",
+      "nameEn": "Matcha",
+      "nameZh": "抹茶",
+      "hex": "#91B963",
+      "family": "Olive & Moss",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Matcha",
+          "nameZh": "抹茶",
+          "hex": "#91B963",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Matcha",
+          "nameZh": "抹茶",
+          "hex": "#87B154",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "647",
+      "nameEn": "Fresh spring tea",
+      "nameZh": "明前龙井",
+      "hex": "#AAA829",
+      "family": "Olive & Moss",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Fresh spring tea",
+          "nameZh": "明前龙井",
+          "hex": "#AAA829",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Linden green",
+          "nameZh": "明前龙井",
+          "hex": "#9C9B3D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "634",
+      "nameEn": "Bean paste green",
+      "nameZh": "豆沙绿",
+      "hex": "#5E8E46",
+      "family": "Olive & Moss",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Bean paste green",
+          "nameZh": "豆沙绿",
+          "hex": "#5E8E46",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Greenery",
+          "nameZh": "豆沙绿",
+          "hex": "#5E995A",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "628",
+      "nameEn": "Peach pink",
+      "nameZh": "桃子",
+      "hex": "#F9E1D8",
+      "family": "Peach & Apricot",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Peach pink",
+          "nameZh": "桃子",
+          "hex": "#F9E1D8",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "607",
+      "nameEn": "Pink rose",
+      "nameZh": "玫瑰粉",
+      "hex": "#EE92BA",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Pink rose",
+          "nameZh": "玫瑰粉",
+          "hex": "#EE92BA",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "608",
+      "nameEn": "Pink strawberry",
+      "nameZh": "草莓粉",
+      "hex": "#D86D91",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Pink strawberry",
+          "nameZh": "草莓粉",
+          "hex": "#D86D91",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "624",
+      "nameEn": "Cherry",
+      "nameZh": "樱桃",
+      "hex": "#8C3659",
+      "family": "Crimson & Burgundy",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Cherry",
+          "nameZh": "樱桃",
+          "hex": "#8C3659",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Cherry",
+          "nameZh": "樱桃红",
+          "hex": "#992A57",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "641",
+      "nameEn": "Wisteria",
+      "nameZh": "浅紫藤",
+      "hex": "#CBA7CC",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Wisteria",
+          "nameZh": "浅紫藤",
+          "hex": "#CBA7CC",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "626",
+      "nameEn": "Balloon flower",
+      "nameZh": "桔梗",
+      "hex": "#ACB4DA",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Balloon flower",
+          "nameZh": "桔梗",
+          "hex": "#ACB4DA",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "629",
+      "nameEn": "Light azure violet",
+      "nameZh": "浅蔚蓝紫",
+      "hex": "#8E9CCE",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Light azure violet",
+          "nameZh": "浅蔚蓝紫",
+          "hex": "#8E9CCE",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "635",
+      "nameEn": "Milk tea",
+      "nameZh": "奶茶",
+      "hex": "#CBAF96",
+      "family": "Skin & Nude",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Milk tea",
+          "nameZh": "奶茶",
+          "hex": "#CBAF96",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Milk tea",
+          "nameZh": "奶茶",
+          "hex": "#D8B194",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "648",
+      "nameEn": "Sandstone",
+      "nameZh": "砂岩褐",
+      "hex": "#A9674E",
+      "family": "Brown & Earth",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Sandstone",
+          "nameZh": "砂岩褐",
+          "hex": "#A9674E",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "621",
+      "nameEn": "Chocolate",
+      "nameZh": "巧克力",
+      "hex": "#9C757B",
+      "family": "Brown & Earth",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Chocolate",
+          "nameZh": "巧克力",
+          "hex": "#9C757B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "622",
+      "nameEn": "Red bean paste",
+      "nameZh": "豆沙",
+      "hex": "#B79497",
+      "family": "Brown & Earth",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Red bean paste",
+          "nameZh": "豆沙",
+          "hex": "#B79497",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "623",
+      "nameEn": "Pale pink",
+      "nameZh": "藕粉",
+      "hex": "#D19DBB",
+      "family": "Pink",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Pale pink",
+          "nameZh": "藕粉",
+          "hex": "#D19DBB",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Pale pink",
+          "nameZh": "藕粉",
+          "hex": "#D5A7CA",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "636",
+      "nameEn": "Misty gray",
+      "nameZh": "雾灰",
+      "hex": "#DADDE1",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Misty gray",
+          "nameZh": "雾灰",
+          "hex": "#DADDE1",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Misty gray",
+          "nameZh": "雾灰",
+          "hex": "#CFD1D6",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "611",
+      "nameEn": "Taro purple",
+      "nameZh": "香芋紫",
+      "hex": "#68539B",
+      "family": "Purple & Violet",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Taro purple",
+          "nameZh": "香芋紫",
+          "hex": "#68539B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Chalk violet",
+          "nameZh": "香芋紫",
+          "hex": "#614F9F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "642",
+      "nameEn": "Iris",
+      "nameZh": "鸢尾",
+      "hex": "#5D67AA",
+      "family": "Purple & Violet",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Iris",
+          "nameZh": "鸢尾",
+          "hex": "#5D67AA",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Iris",
+          "nameZh": "鸢尾",
+          "hex": "#48519E",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "612",
+      "nameEn": "Lavender",
+      "nameZh": "薰衣草",
+      "hex": "#8C90BE",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Lavender",
+          "nameZh": "薰衣草",
+          "hex": "#8C90BE",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Lavender",
+          "nameZh": "薰衣草",
+          "hex": "#7489C1",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "616",
+      "nameEn": "Sea salt",
+      "nameZh": "海盐",
+      "hex": "#B6CCD3",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Sea salt",
+          "nameZh": "海盐",
+          "hex": "#B6CCD3",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Saltwater slide",
+          "nameZh": "海盐",
+          "hex": "#AFCFE9",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "630",
+      "nameEn": "Baby blue",
+      "nameZh": "婴儿蓝",
+      "hex": "#90C1E2",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Baby blue",
+          "nameZh": "婴儿蓝",
+          "hex": "#90C1E2",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "615",
+      "nameEn": "Ocean blue",
+      "nameZh": "海洋",
+      "hex": "#75B7BC",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Ocean blue",
+          "nameZh": "海洋",
+          "hex": "#75B7BC",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Hawaiian ocean",
+          "nameZh": "海洋",
+          "hex": "#50BEEA",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "643",
+      "nameEn": "Feather blue",
+      "nameZh": "羽蓝",
+      "hex": "#4A6DA5",
+      "family": "Blue",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "macaron",
+          "nameEn": "Feather blue",
+          "nameZh": "羽蓝",
+          "hex": "#4A6DA5",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "701",
+      "nameEn": "White",
+      "nameZh": "白色",
+      "hex": "#FFFFFF",
+      "family": "White",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "White",
+          "nameZh": "白色",
+          "hex": "#FFFFFF",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "White",
+          "nameZh": "白色",
+          "hex": "#FFFFFF",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "737",
+      "nameEn": "Ivory skin tone",
+      "nameZh": "肤色",
+      "hex": "#F8CEB1",
+      "family": "Skin & Nude",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Ivory skin tone",
+          "nameZh": "肤色",
+          "hex": "#F8CEB1",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Salmon",
+          "nameZh": "肤色",
+          "hex": "#FDC8AD",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "702",
+      "nameEn": "Buff",
+      "nameZh": "淡黄",
+      "hex": "#F6B789",
+      "family": "Skin & Nude",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Buff",
+          "nameZh": "淡黄",
+          "hex": "#F6B789",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Peach fuzz",
+          "nameZh": "杏粉色",
+          "hex": "#FEB08A",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "703",
+      "nameEn": "Naples yellow",
+      "nameZh": "拿蒲黄",
+      "hex": "#F7D68F",
+      "family": "Yellow",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Naples yellow",
+          "nameZh": "拿蒲黄",
+          "hex": "#F7D68F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Naples yellow",
+          "nameZh": "拿坡里黄",
+          "hex": "#FDF0BA",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "704",
+      "nameEn": "Lemon yellow",
+      "nameZh": "柠檬黄",
+      "hex": "#F4EC65",
+      "family": "Yellow",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Lemon yellow",
+          "nameZh": "柠檬黄",
+          "hex": "#F4EC65",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Lemon yellow",
+          "nameZh": "柠檬黄",
+          "hex": "#FFFB65",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "705",
+      "nameEn": "Yellow",
+      "nameZh": "黄色",
+      "hex": "#F7E931",
+      "family": "Yellow",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Yellow",
+          "nameZh": "黄色",
+          "hex": "#F7E931",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Yellow",
+          "nameZh": "黄色",
+          "hex": "#FFED03",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "706",
+      "nameEn": "Cadmium yellow",
+      "nameZh": "镉黄",
+      "hex": "#F4CE26",
+      "family": "Yellow",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Cadmium yellow",
+          "nameZh": "镉黄",
+          "hex": "#F4CE26",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Cadmium yellow",
+          "nameZh": "镉黄",
+          "hex": "#FEC90B",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "723",
+      "nameEn": "Green",
+      "nameZh": "绿色",
+      "hex": "#117F3F",
+      "family": "Green",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Green",
+          "nameZh": "绿色",
+          "hex": "#117F3F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Green",
+          "nameZh": "绿色",
+          "hex": "#057231",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "724",
+      "nameEn": "Yellow green",
+      "nameZh": "黄绿",
+      "hex": "#76BB45",
+      "family": "Yellow Green",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Yellow green",
+          "nameZh": "黄绿",
+          "hex": "#76BB45",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Yellow green",
+          "nameZh": "黄绿",
+          "hex": "#8FDF0C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "743",
+      "nameEn": "Light green",
+      "nameZh": "嫩绿",
+      "hex": "#B1D480",
+      "family": "Yellow Green",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Light green",
+          "nameZh": "嫩绿",
+          "hex": "#B1D480",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Sharp green",
+          "nameZh": "嫩绿",
+          "hex": "#CCFEA6",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "725",
+      "nameEn": "Pale green",
+      "nameZh": "淡绿",
+      "hex": "#69C1C0",
+      "family": "Mint & Aqua",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Pale green",
+          "nameZh": "淡绿",
+          "hex": "#69C1C0",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Lutice green",
+          "nameZh": "淡绿",
+          "hex": "#0ADFE5",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "726",
+      "nameEn": "Cerulean",
+      "nameZh": "天青",
+      "hex": "#1D87AE",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Cerulean",
+          "nameZh": "天青",
+          "hex": "#1D87AE",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Aqua sky",
+          "nameZh": "天青",
+          "hex": "#08D6DB",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "727",
+      "nameEn": "Light blue",
+      "nameZh": "浅蓝",
+      "hex": "#2375BF",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Light blue",
+          "nameZh": "浅蓝",
+          "hex": "#2375BF",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Light blue",
+          "nameZh": "浅蓝",
+          "hex": "#0598FD",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "728",
+      "nameEn": "Sky blue",
+      "nameZh": "天蓝",
+      "hex": "#56AFE2",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Sky blue",
+          "nameZh": "天蓝",
+          "hex": "#56AFE2",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Sky blue",
+          "nameZh": "天蓝",
+          "hex": "#08C2FE",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "707",
+      "nameEn": "Orangish yellow",
+      "nameZh": "橙黄",
+      "hex": "#F2972F",
+      "family": "Orange",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Orangish yellow",
+          "nameZh": "橙黄",
+          "hex": "#F2972F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Flame orange",
+          "nameZh": "橙黄",
+          "hex": "#FDA810",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "708",
+      "nameEn": "Orange",
+      "nameZh": "橙色",
+      "hex": "#DE5425",
+      "family": "Orange",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Orange",
+          "nameZh": "橙色",
+          "hex": "#DE5425",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Orange",
+          "nameZh": "橙色",
+          "hex": "#FE7034",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "739",
+      "nameEn": "Orange red",
+      "nameZh": "橙红",
+      "hex": "#D93A2E",
+      "family": "Orange",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Orange red",
+          "nameZh": "橙红",
+          "hex": "#D93A2E",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "709",
+      "nameEn": "Vermilion",
+      "nameZh": "朱红",
+      "hex": "#C12C37",
+      "family": "Red",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Vermilion",
+          "nameZh": "朱红",
+          "hex": "#C12C37",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Vermilion",
+          "nameZh": "朱红",
+          "hex": "#E4281D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "710",
+      "nameEn": "Red",
+      "nameZh": "红色",
+      "hex": "#A51E31",
+      "family": "Red",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Red",
+          "nameZh": "红色",
+          "hex": "#A51E31",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Red",
+          "nameZh": "大红",
+          "hex": "#A00323",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "740",
+      "nameEn": "Crimson",
+      "nameZh": "深红",
+      "hex": "#9A1F33",
+      "family": "Crimson & Burgundy",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Crimson",
+          "nameZh": "深红",
+          "hex": "#9A1F33",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Cardinal",
+          "nameZh": "深红",
+          "hex": "#911135",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "711",
+      "nameEn": "Light magenta",
+      "nameZh": "浅品红",
+      "hex": "#CB5977",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Light magenta",
+          "nameZh": "浅品红",
+          "hex": "#CB5977",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Light magenta",
+          "nameZh": "浅品红",
+          "hex": "#EF678D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "729",
+      "nameEn": "Light blue purple",
+      "nameZh": "浅蓝紫",
+      "hex": "#787CBC",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Light blue purple",
+          "nameZh": "浅蓝紫",
+          "hex": "#787CBC",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "730",
+      "nameEn": "Yellowish brown",
+      "nameZh": "黄褐",
+      "hex": "#C6881B",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Yellowish brown",
+          "nameZh": "黄褐",
+          "hex": "#C6881B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Golden brown",
+          "nameZh": "黄褐",
+          "hex": "#85551C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "731",
+      "nameEn": "Clay yellow",
+      "nameZh": "土黄",
+      "hex": "#7D572A",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Clay yellow",
+          "nameZh": "土黄",
+          "hex": "#7D572A",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Yellow ochre",
+          "nameZh": "土黄",
+          "hex": "#E7A30C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "732",
+      "nameEn": "Ochre",
+      "nameZh": "赭色",
+      "hex": "#964B2B",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Ochre",
+          "nameZh": "赭色",
+          "hex": "#964B2B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Sienna",
+          "nameZh": "赭色",
+          "hex": "#8D3730",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "744",
+      "nameEn": "Maroon",
+      "nameZh": "红褐",
+      "hex": "#A45453",
+      "family": "Brown & Earth",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Maroon",
+          "nameZh": "红褐",
+          "hex": "#A45453",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "745",
+      "nameEn": "Burgundy",
+      "nameZh": "深酒红",
+      "hex": "#722934",
+      "family": "Crimson & Burgundy",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Burgundy",
+          "nameZh": "深酒红",
+          "hex": "#722934",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "733",
+      "nameEn": "Reddish brown",
+      "nameZh": "红棕",
+      "hex": "#6C3133",
+      "family": "Brown & Earth",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Reddish brown",
+          "nameZh": "红棕",
+          "hex": "#6C3133",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Fired brick",
+          "nameZh": "红棕",
+          "hex": "#552829",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "738",
+      "nameEn": "Light sakura pink",
+      "nameZh": "浅樱花粉",
+      "hex": "#F4B9CE",
+      "family": "Pink",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Light sakura pink",
+          "nameZh": "浅樱花粉",
+          "hex": "#F4B9CE",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "712",
+      "nameEn": "Pink",
+      "nameZh": "粉红",
+      "hex": "#D981B2",
+      "family": "Pink",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Pink",
+          "nameZh": "粉红",
+          "hex": "#D981B2",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "713",
+      "nameEn": "Pink rose",
+      "nameZh": "玫瑰粉",
+      "hex": "#B3266A",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Pink rose",
+          "nameZh": "玫瑰粉",
+          "hex": "#B3266A",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Pink rose",
+          "nameZh": "玫瑰粉",
+          "hex": "#B11B71",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "714",
+      "nameEn": "Purple",
+      "nameZh": "紫色",
+      "hex": "#473073",
+      "family": "Purple & Violet",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Purple",
+          "nameZh": "紫色",
+          "hex": "#473073",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Purple",
+          "nameZh": "紫色",
+          "hex": "#71339E",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "715",
+      "nameEn": "Violet",
+      "nameZh": "紫罗兰",
+      "hex": "#362D62",
+      "family": "Purple & Violet",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Violet",
+          "nameZh": "紫罗兰",
+          "hex": "#362D62",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "741",
+      "nameEn": "Lake blue",
+      "nameZh": "湖蓝",
+      "hex": "#3055A5",
+      "family": "Blue",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Lake blue",
+          "nameZh": "湖蓝",
+          "hex": "#3055A5",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Cornflower blue",
+          "nameZh": "矢车菊蓝",
+          "hex": "#3155DD",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "717",
+      "nameEn": "Ultramarine",
+      "nameZh": "群青",
+      "hex": "#234296",
+      "family": "Blue",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Ultramarine",
+          "nameZh": "群青",
+          "hex": "#234296",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Ultramarine",
+          "nameZh": "群青",
+          "hex": "#0741C6",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "746",
+      "nameEn": "Light brown",
+      "nameZh": "浅棕",
+      "hex": "#815B59",
+      "family": "Brown & Earth",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Light brown",
+          "nameZh": "浅棕",
+          "hex": "#815B59",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "734",
+      "nameEn": "Brown",
+      "nameZh": "铁棕",
+      "hex": "#40322F",
+      "family": "Brown & Earth",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Brown",
+          "nameZh": "铁棕",
+          "hex": "#40322F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Sepia",
+          "nameZh": "铁棕",
+          "hex": "#332B27",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "747",
+      "nameEn": "Burnt umber",
+      "nameZh": "褐色",
+      "hex": "#372E31",
+      "family": "Brown & Earth",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Burnt umber",
+          "nameZh": "褐色",
+          "hex": "#372E31",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Chocolate brown",
+          "nameZh": "褐色",
+          "hex": "#393737",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "748",
+      "nameEn": "Light grey",
+      "nameZh": "浅灰",
+      "hex": "#AEB3B9",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Light grey",
+          "nameZh": "浅灰",
+          "hex": "#AEB3B9",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "735",
+      "nameEn": "Grey",
+      "nameZh": "灰色",
+      "hex": "#808C96",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Grey",
+          "nameZh": "灰色",
+          "hex": "#808C96",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Grey",
+          "nameZh": "灰色",
+          "hex": "#868686",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "736",
+      "nameEn": "Black",
+      "nameZh": "黑色",
+      "hex": "#263033",
+      "family": "Black",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Black",
+          "nameZh": "黑色",
+          "hex": "#263033",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Black",
+          "nameZh": "黑色",
+          "hex": "#17191B",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "742",
+      "nameEn": "Ultramarine violet",
+      "nameZh": "深蓝紫",
+      "hex": "#263C92",
+      "family": "Purple & Violet",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Ultramarine violet",
+          "nameZh": "深蓝紫",
+          "hex": "#263C92",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "718",
+      "nameEn": "Cobalt blue",
+      "nameZh": "钴蓝",
+      "hex": "#0F4296",
+      "family": "Blue",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Cobalt blue",
+          "nameZh": "钴蓝",
+          "hex": "#0F4296",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Cobalt blue",
+          "nameZh": "钴蓝",
+          "hex": "#0545C1",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "716",
+      "nameEn": "Prussian blue",
+      "nameZh": "普蓝",
+      "hex": "#1D386B",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Prussian blue",
+          "nameZh": "普蓝",
+          "hex": "#1D386B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Indigo",
+          "nameZh": "普蓝",
+          "hex": "#1D2754",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "719",
+      "nameEn": "Bluish green",
+      "nameZh": "蓝绿",
+      "hex": "#1A4964",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Bluish green",
+          "nameZh": "蓝绿",
+          "hex": "#1A4964",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Green-blue slate",
+          "nameZh": "蓝绿",
+          "hex": "#155664",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "720",
+      "nameEn": "Cadmium green",
+      "nameZh": "镉绿",
+      "hex": "#21473A",
+      "family": "Green",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Cadmium green",
+          "nameZh": "镉绿",
+          "hex": "#21473A",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Cadmium green",
+          "nameZh": "镉绿",
+          "hex": "#213A32",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "721",
+      "nameEn": "Olive green",
+      "nameZh": "橄榄绿",
+      "hex": "#3A5E31",
+      "family": "Olive & Moss",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Olive green",
+          "nameZh": "橄榄绿",
+          "hex": "#3A5E31",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "722",
+      "nameEn": "Grass green",
+      "nameZh": "草绿",
+      "hex": "#32763B",
+      "family": "Green",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "classic",
+          "nameEn": "Grass green",
+          "nameZh": "草绿",
+          "hex": "#32763B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-classic",
+          "nameEn": "Deep grass green",
+          "nameZh": "草绿",
+          "hex": "#1C7332",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "806",
+      "nameEn": "Bud yellow",
+      "nameZh": "芽黄",
+      "hex": "#F3F496",
+      "family": "Yellow",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Bud yellow",
+          "nameZh": "芽黄",
+          "hex": "#F3F496",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "802",
+      "nameEn": "Vanilla",
+      "nameZh": "薄香",
+      "hex": "#FCF3D3",
+      "family": "Cream & Ivory",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Vanilla",
+          "nameZh": "薄香",
+          "hex": "#FCF3D3",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Minion yellow",
+          "nameZh": "小黄人",
+          "hex": "#FBF1DA",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "807",
+      "nameEn": "Apricot yellow",
+      "nameZh": "杏黄",
+      "hex": "#F7DE7B",
+      "family": "Yellow",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Apricot yellow",
+          "nameZh": "杏黄",
+          "hex": "#F7DE7B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Apricot yellow",
+          "nameZh": "杏黄",
+          "hex": "#F7DA7E",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "808",
+      "nameEn": "Pine yellow",
+      "nameZh": "松木",
+      "hex": "#EBBE47",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Pine yellow",
+          "nameZh": "松木",
+          "hex": "#EBBE47",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Daisy daze",
+          "nameZh": "雏菊黄",
+          "hex": "#F3C634",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "825",
+      "nameEn": "Monk yellow",
+      "nameZh": "密陀僧黄",
+      "hex": "#DBB87F",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Monk yellow",
+          "nameZh": "密陀僧黄",
+          "hex": "#DBB87F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Desert dust",
+          "nameZh": "密陀僧黄",
+          "hex": "#E6AB63",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "809",
+      "nameEn": "Light tan",
+      "nameZh": "淡漠驼",
+      "hex": "#BBA987",
+      "family": "Skin & Nude",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Light tan",
+          "nameZh": "淡漠驼",
+          "hex": "#BBA987",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Mojave desert",
+          "nameZh": "淡漠驼",
+          "hex": "#B0A07D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "810",
+      "nameEn": "Oat",
+      "nameZh": "燕麦",
+      "hex": "#CEB4A0",
+      "family": "Skin & Nude",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Oat",
+          "nameZh": "燕麦",
+          "hex": "#CEB4A0",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Oat",
+          "nameZh": "燕麦",
+          "hex": "#D6B69D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "824",
+      "nameEn": "Purple gray",
+      "nameZh": "紫灰",
+      "hex": "#723E6E",
+      "family": "Purple & Violet",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Purple gray",
+          "nameZh": "紫灰",
+          "hex": "#723E6E",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Sparkling grape",
+          "nameZh": "葡萄紫",
+          "hex": "#5C3255",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "831",
+      "nameEn": "Light gray blue",
+      "nameZh": "浅灰蓝",
+      "hex": "#AED5F4",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Light gray blue",
+          "nameZh": "浅灰蓝",
+          "hex": "#AED5F4",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Baby blue",
+          "nameZh": "浅灰蓝",
+          "hex": "#B2DAF1",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "832",
+      "nameEn": "Ice blue",
+      "nameZh": "冰青蓝",
+      "hex": "#85CCD2",
+      "family": "Mint & Aqua",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Ice blue",
+          "nameZh": "冰青蓝",
+          "hex": "#85CCD2",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Ice blue",
+          "nameZh": "冰青蓝",
+          "hex": "#89CED4",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "818",
+      "nameEn": "Star blue",
+      "nameZh": "星蓝",
+      "hex": "#93C4E7",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Star blue",
+          "nameZh": "星蓝",
+          "hex": "#93C4E7",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Comet sea star",
+          "nameZh": "星蓝",
+          "hex": "#A0D4F2",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "844",
+      "nameEn": "Glacier blue",
+      "nameZh": "冰川蓝",
+      "hex": "#567BBE",
+      "family": "Blue",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Glacier blue",
+          "nameZh": "冰川蓝",
+          "hex": "#567BBE",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "819",
+      "nameEn": "Haze blue",
+      "nameZh": "雾霾蓝",
+      "hex": "#526B80",
+      "family": "Blue",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Haze blue",
+          "nameZh": "雾霾蓝",
+          "hex": "#526B80",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Abyss",
+          "nameZh": "雾霾蓝",
+          "hex": "#34484F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "820",
+      "nameEn": "Late blue wave",
+      "nameZh": "晚波蓝",
+      "hex": "#568BA9",
+      "family": "Blue",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Late blue wave",
+          "nameZh": "晚波蓝",
+          "hex": "#568BA9",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Wave ride",
+          "nameZh": "晚波蓝",
+          "hex": "#3C9BB3",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "801",
+      "nameEn": "Tender complexion",
+      "nameZh": "嫩肤",
+      "hex": "#FBDAC9",
+      "family": "Skin & Nude",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Tender complexion",
+          "nameZh": "嫩肤",
+          "hex": "#FBDAC9",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "White smoke",
+          "nameZh": "嫩肤",
+          "hex": "#F8CEB0",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "837",
+      "nameEn": "Bright orange",
+      "nameZh": "亮橙",
+      "hex": "#F4B380",
+      "family": "Orange",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Bright orange",
+          "nameZh": "亮橙",
+          "hex": "#F4B380",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Pale marigold",
+          "nameZh": "亮橙",
+          "hex": "#F5B16A",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "838",
+      "nameEn": "Persimmon orange",
+      "nameZh": "柿子橙",
+      "hex": "#E9633F",
+      "family": "Orange",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Persimmon orange",
+          "nameZh": "柿子橙",
+          "hex": "#E9633F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Persimmon orange",
+          "nameZh": "柿子橙",
+          "hex": "#E95924",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "826",
+      "nameEn": "Brassiness",
+      "nameZh": "黄铜",
+      "hex": "#D2987C",
+      "family": "Peach & Apricot",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Brassiness",
+          "nameZh": "黄铜",
+          "hex": "#D2987C",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Rose gold",
+          "nameZh": "玫瑰金",
+          "hex": "#E4A882",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "811",
+      "nameEn": "Mandarin red",
+      "nameZh": "柑橘红",
+      "hex": "#D07742",
+      "family": "Orange",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Mandarin red",
+          "nameZh": "柑橘红",
+          "hex": "#D07742",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Mandarin orange",
+          "nameZh": "柑橘红",
+          "hex": "#D86D23",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "812",
+      "nameEn": "Auburn",
+      "nameZh": "茶褐",
+      "hex": "#9A7574",
+      "family": "Brown & Earth",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Auburn",
+          "nameZh": "茶褐",
+          "hex": "#9A7574",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Old rose",
+          "nameZh": "茶褐",
+          "hex": "#B89599",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "839",
+      "nameEn": "Rice gray",
+      "nameZh": "米灰",
+      "hex": "#978987",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Rice gray",
+          "nameZh": "米灰",
+          "hex": "#978987",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Purple brown",
+          "nameZh": "紫棕",
+          "hex": "#7D6E72",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "833",
+      "nameEn": "Sapphire grey",
+      "nameZh": "宝石蓝灰",
+      "hex": "#4A7E9F",
+      "family": "Blue",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Sapphire grey",
+          "nameZh": "宝石蓝灰",
+          "hex": "#4A7E9F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Blue sapphire",
+          "nameZh": "宝石蓝灰",
+          "hex": "#165681",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "845",
+      "nameEn": "Atlantic blue",
+      "nameZh": "大西洋蓝",
+      "hex": "#1E3D8B",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Atlantic blue",
+          "nameZh": "大西洋蓝",
+          "hex": "#1E3D8B",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Atlantic blue",
+          "nameZh": "大西洋蓝",
+          "hex": "#1D3868",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "813",
+      "nameEn": "Egg shell",
+      "nameZh": "蛋壳绿",
+      "hex": "#BEDB98",
+      "family": "Yellow Green",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Egg shell",
+          "nameZh": "蛋壳绿",
+          "hex": "#BEDB98",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Bird's egg green",
+          "nameZh": "蛋壳绿",
+          "hex": "#C6DCB2",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "814",
+      "nameEn": "Pine frost green",
+      "nameZh": "松霜",
+      "hex": "#90CFC4",
+      "family": "Mint & Aqua",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Pine frost green",
+          "nameZh": "松霜",
+          "hex": "#90CFC4",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Bondi mint",
+          "nameZh": "松霜",
+          "hex": "#7CC59C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "815",
+      "nameEn": "Shimbashi",
+      "nameZh": "新桥",
+      "hex": "#58BEBB",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Shimbashi",
+          "nameZh": "新桥",
+          "hex": "#58BEBB",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "816",
+      "nameEn": "Scuba green",
+      "nameZh": "水浅葱",
+      "hex": "#558E98",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Scuba green",
+          "nameZh": "水浅葱",
+          "hex": "#558E98",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Verdigris",
+          "nameZh": "水浅葱绿",
+          "hex": "#2D8389",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "834",
+      "nameEn": "Ome",
+      "nameZh": "青梅",
+      "hex": "#6BBD85",
+      "family": "Green",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Ome",
+          "nameZh": "青梅",
+          "hex": "#6BBD85",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Ome",
+          "nameZh": "青梅",
+          "hex": "#68BA68",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "828",
+      "nameEn": "Sakura rain",
+      "nameZh": "樱落",
+      "hex": "#B4A2A0",
+      "family": "Pink",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Sakura rain",
+          "nameZh": "樱落",
+          "hex": "#B4A2A0",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Sakura rain",
+          "nameZh": "樱落",
+          "hex": "#EAC4D9",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "805",
+      "nameEn": "Althea flower",
+      "nameZh": "木槿",
+      "hex": "#D08BB0",
+      "family": "Pink",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Althea flower",
+          "nameZh": "木槿",
+          "hex": "#D08BB0",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "803",
+      "nameEn": "Blushing coral",
+      "nameZh": "嫣红",
+      "hex": "#E58095",
+      "family": "Coral",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Blushing coral",
+          "nameZh": "嫣红",
+          "hex": "#E58095",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Blushing coral",
+          "nameZh": "嫣红",
+          "hex": "#E9738E",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "804",
+      "nameEn": "Begonia",
+      "nameZh": "海棠",
+      "hex": "#E55F62",
+      "family": "Red",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Begonia",
+          "nameZh": "海棠",
+          "hex": "#E55F62",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Begonia",
+          "nameZh": "海棠",
+          "hex": "#E54F58",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "840",
+      "nameEn": "Hawthorn red",
+      "nameZh": "山楂红",
+      "hex": "#D14441",
+      "family": "Red",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Hawthorn red",
+          "nameZh": "山楂红",
+          "hex": "#D14441",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Vermilion",
+          "nameZh": "山楂红",
+          "hex": "#CB3624",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "822",
+      "nameEn": "Light rose pink",
+      "nameZh": "柔粉",
+      "hex": "#948393",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Light rose pink",
+          "nameZh": "柔粉",
+          "hex": "#948393",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Silver pink",
+          "nameZh": "银粉",
+          "hex": "#CF90A8",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "827",
+      "nameEn": "Rust red",
+      "nameZh": "铁锈红",
+      "hex": "#71566C",
+      "family": "Crimson & Burgundy",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Rust red",
+          "nameZh": "铁锈红",
+          "hex": "#71566C",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Rust red",
+          "nameZh": "铁锈红",
+          "hex": "#8F484A",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "835",
+      "nameEn": "Light grass green",
+      "nameZh": "浅草绿",
+      "hex": "#A9C374",
+      "family": "Yellow Green",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Light grass green",
+          "nameZh": "浅草绿",
+          "hex": "#A9C374",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "817",
+      "nameEn": "Grey bean green",
+      "nameZh": "豆绿灰",
+      "hex": "#649666",
+      "family": "Olive & Moss",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Grey bean green",
+          "nameZh": "豆绿灰",
+          "hex": "#649666",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Matte green",
+          "nameZh": "绿灰",
+          "hex": "#47684F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "846",
+      "nameEn": "Rainforest green",
+      "nameZh": "雨林绿",
+      "hex": "#1C5962",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Rainforest green",
+          "nameZh": "雨林绿",
+          "hex": "#1C5962",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "847",
+      "nameEn": "Emerald green",
+      "nameZh": "祖母绿",
+      "hex": "#1E5046",
+      "family": "Green",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Emerald green",
+          "nameZh": "祖母绿",
+          "hex": "#1E5046",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "836",
+      "nameEn": "Oyster mushroom",
+      "nameZh": "杏鲍菇灰",
+      "hex": "#B4BED1",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Oyster mushroom",
+          "nameZh": "杏鲍菇灰",
+          "hex": "#B4BED1",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "848",
+      "nameEn": "Gray blue",
+      "nameZh": "寒江雪",
+      "hex": "#ACC2D6",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Gray blue",
+          "nameZh": "寒江雪",
+          "hex": "#ACC2D6",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Plein air",
+          "nameZh": "寒江雪",
+          "hex": "#A4C3D6",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "841",
+      "nameEn": "Mineralsoil red",
+      "nameZh": "矿土红",
+      "hex": "#7E3537",
+      "family": "Crimson & Burgundy",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Mineralsoil red",
+          "nameZh": "矿土红",
+          "hex": "#7E3537",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "823",
+      "nameEn": "Dark brick red",
+      "nameZh": "暗砖红",
+      "hex": "#954B59",
+      "family": "Crimson & Burgundy",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Dark brick red",
+          "nameZh": "暗砖红",
+          "hex": "#954B59",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Brick red",
+          "nameZh": "暗砖红",
+          "hex": "#65273C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "842",
+      "nameEn": "Raw umber",
+      "nameZh": "土棕",
+      "hex": "#664945",
+      "family": "Brown & Earth",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Raw umber",
+          "nameZh": "土棕",
+          "hex": "#664945",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "829",
+      "nameEn": "Lilac",
+      "nameZh": "丁香紫",
+      "hex": "#957EB7",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Lilac",
+          "nameZh": "丁香紫",
+          "hex": "#957EB7",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Lilac",
+          "nameZh": "丁香紫",
+          "hex": "#A090C0",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "821",
+      "nameEn": "Light violet",
+      "nameZh": "浅紫",
+      "hex": "#604A99",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Light violet",
+          "nameZh": "浅紫",
+          "hex": "#604A99",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "843",
+      "nameEn": "Starry sky purple",
+      "nameZh": "星空紫",
+      "hex": "#33326C",
+      "family": "Purple & Violet",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Starry sky purple",
+          "nameZh": "星空紫",
+          "hex": "#33326C",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Starry sky purple",
+          "nameZh": "星空紫",
+          "hex": "#1E254F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "830",
+      "nameEn": "Shell purple mushroom",
+      "nameZh": "贝壳紫",
+      "hex": "#53588F",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "extra-soft",
+        "professional-soft",
+        "beginner-super-soft",
+        "selected-72",
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "morandi",
+          "nameEn": "Shell purple mushroom",
+          "nameZh": "贝壳紫",
+          "hex": "#53588F",
+          "products": [
+            "extra-soft",
+            "professional-soft",
+            "beginner-super-soft",
+            "selected-72"
+          ]
+        },
+        {
+          "source": "sky-morandi",
+          "nameEn": "Twining purple",
+          "nameZh": "贝壳紫",
+          "hex": "#454686",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "101",
+      "nameEn": "Plain",
+      "nameZh": "素",
+      "hex": "#FFFFFF",
+      "family": "White",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Plain",
+          "nameZh": "素",
+          "hex": "#FFFFFF",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "132",
+      "nameEn": "Dreamlike command",
+      "nameZh": "如梦令",
+      "hex": "#FFEDB2",
+      "family": "Cream & Ivory",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Dreamlike command",
+          "nameZh": "如梦令",
+          "hex": "#FFEDB2",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "128",
+      "nameEn": "Wandering yellow and white",
+      "nameZh": "莺白",
+      "hex": "#FAF172",
+      "family": "Cream & Ivory",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Wandering yellow and white",
+          "nameZh": "莺白",
+          "hex": "#FAF172",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "129",
+      "nameEn": "Goose yellow",
+      "nameZh": "鹅黄",
+      "hex": "#FEF47B",
+      "family": "Yellow",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Goose yellow",
+          "nameZh": "鹅黄",
+          "hex": "#FEF47B",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "130",
+      "nameEn": "Gamboge",
+      "nameZh": "藤黄",
+      "hex": "#FCD820",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Gamboge",
+          "nameZh": "藤黄",
+          "hex": "#FCD820",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "126",
+      "nameEn": "Autumn fragrance",
+      "nameZh": "秋香",
+      "hex": "#F4CD7E",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Autumn fragrance",
+          "nameZh": "秋香",
+          "hex": "#F4CD7E",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "127",
+      "nameEn": "Glaze",
+      "nameZh": "琉璃",
+      "hex": "#F6CC3C",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Glaze",
+          "nameZh": "琉璃",
+          "hex": "#F6CC3C",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "nameEn": "Yellow liquidambar",
+      "nameZh": "黄栌",
+      "hex": "#C68814",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Yellow liquidambar",
+          "nameZh": "黄栌",
+          "hex": "#C68814",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "106",
+      "nameEn": "Streaming yellow",
+      "nameZh": "流黄",
+      "hex": "#5B4026",
+      "family": "Ochre & Mustard",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Streaming yellow",
+          "nameZh": "流黄",
+          "hex": "#5B4026",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "107",
+      "nameEn": "Amber",
+      "nameZh": "琥珀",
+      "hex": "#D27031",
+      "family": "Orange",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Amber",
+          "nameZh": "琥珀",
+          "hex": "#D27031",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "139",
+      "nameEn": "Red rosy sky",
+      "nameZh": "赤霞",
+      "hex": "#F6B77D",
+      "family": "Peach & Apricot",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Red rosy sky",
+          "nameZh": "赤霞",
+          "hex": "#F6B77D",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "147",
+      "nameEn": "Apricot yellow",
+      "nameZh": "杏黄",
+      "hex": "#EA631B",
+      "family": "Peach & Apricot",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Apricot yellow",
+          "nameZh": "杏黄",
+          "hex": "#EA631B",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "146",
+      "nameEn": "Red persimmon",
+      "nameZh": "朱柿",
+      "hex": "#F19625",
+      "family": "Orange",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Red persimmon",
+          "nameZh": "朱柿",
+          "hex": "#F19625",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "143",
+      "nameEn": "Rouge",
+      "nameZh": "胭脂",
+      "hex": "#C3262A",
+      "family": "Red",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Rouge",
+          "nameZh": "胭脂",
+          "hex": "#C3262A",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "144",
+      "nameEn": "Coral red",
+      "nameZh": "珊瑚红",
+      "hex": "#9E1F27",
+      "family": "Coral",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Coral red",
+          "nameZh": "珊瑚红",
+          "hex": "#9E1F27",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "145",
+      "nameEn": "Magenta",
+      "nameZh": "品红",
+      "hex": "#B01268",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Magenta",
+          "nameZh": "品红",
+          "hex": "#B01268",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "140",
+      "nameEn": "Peach red",
+      "nameZh": "桃红",
+      "hex": "#DB75A6",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Peach red",
+          "nameZh": "桃红",
+          "hex": "#DB75A6",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "142",
+      "nameEn": "Camellia",
+      "nameZh": "山茶",
+      "hex": "#EA8A9C",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Camellia",
+          "nameZh": "山茶",
+          "hex": "#EA8A9C",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "148",
+      "nameEn": "Sakura",
+      "nameZh": "樱花",
+      "hex": "#EFA4B6",
+      "family": "Pink",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Sakura",
+          "nameZh": "樱花",
+          "hex": "#EFA4B6",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "141",
+      "nameEn": "Smoke red",
+      "nameZh": "烟红",
+      "hex": "#CE8AB6",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Smoke red",
+          "nameZh": "烟红",
+          "hex": "#CE8AB6",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "131",
+      "nameEn": "Lotus root silk",
+      "nameZh": "藕丝",
+      "hex": "#C07E81",
+      "family": "Skin & Nude",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Lotus root silk",
+          "nameZh": "藕丝",
+          "hex": "#C07E81",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "135",
+      "nameEn": "Aloeswood",
+      "nameZh": "沉香",
+      "hex": "#9E7271",
+      "family": "Brown & Earth",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Aloeswood",
+          "nameZh": "沉香",
+          "hex": "#9E7271",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "137",
+      "nameEn": "Dark purple",
+      "nameZh": "绛紫",
+      "hex": "#7C2E3B",
+      "family": "Purple & Violet",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Dark purple",
+          "nameZh": "绛紫",
+          "hex": "#7C2E3B",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "138",
+      "nameEn": "Antique bronze purple",
+      "nameZh": "古铜紫",
+      "hex": "#6F294F",
+      "family": "Purple & Violet",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Antique bronze purple",
+          "nameZh": "古铜紫",
+          "hex": "#6F294F",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "122",
+      "nameEn": "Antique cyan",
+      "nameZh": "青古",
+      "hex": "#BBDFD8",
+      "family": "Mint & Aqua",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Antique cyan",
+          "nameZh": "青古",
+          "hex": "#BBDFD8",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "120",
+      "nameEn": "Jadeite",
+      "nameZh": "翡翠",
+      "hex": "#53BDC5",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Jadeite",
+          "nameZh": "翡翠",
+          "hex": "#53BDC5",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "117",
+      "nameEn": "Blue wave",
+      "nameZh": "沧浪",
+      "hex": "#309AA8",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Blue wave",
+          "nameZh": "沧浪",
+          "hex": "#309AA8",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "110",
+      "nameEn": "Dark blue",
+      "nameZh": "黛蓝",
+      "hex": "#3C657B",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Dark blue",
+          "nameZh": "黛蓝",
+          "hex": "#3C657B",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "121",
+      "nameEn": "Pea green",
+      "nameZh": "豆青",
+      "hex": "#82BF72",
+      "family": "Yellow Green",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Pea green",
+          "nameZh": "豆青",
+          "hex": "#82BF72",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "125",
+      "nameEn": "Light green",
+      "nameZh": "葱绿",
+      "hex": "#5CB44E",
+      "family": "Green",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Light green",
+          "nameZh": "葱绿",
+          "hex": "#5CB44E",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "123",
+      "nameEn": "Bamboo bark",
+      "nameZh": "竹青",
+      "hex": "#2B6131",
+      "family": "Olive & Moss",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Bamboo bark",
+          "nameZh": "竹青",
+          "hex": "#2B6131",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "136",
+      "nameEn": "Coal black",
+      "nameZh": "炭黑",
+      "hex": "#15171A",
+      "family": "Black",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Coal black",
+          "nameZh": "炭黑",
+          "hex": "#15171A",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "124",
+      "nameEn": "Bamboo green",
+      "nameZh": "官绿",
+      "hex": "#097B40",
+      "family": "Green",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Bamboo green",
+          "nameZh": "官绿",
+          "hex": "#097B40",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "115",
+      "nameEn": "Stone green",
+      "nameZh": "石绿",
+      "hex": "#1E3C32",
+      "family": "Green",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Stone green",
+          "nameZh": "石绿",
+          "hex": "#1E3C32",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "114",
+      "nameEn": "Deep Bamboo Moon",
+      "nameZh": "深竹月",
+      "hex": "#1293BA",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Deep Bamboo Moon",
+          "nameZh": "深竹月",
+          "hex": "#1293BA",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "118",
+      "nameEn": "Cyan-blue",
+      "nameZh": "天青",
+      "hex": "#85CEF2",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Cyan-blue",
+          "nameZh": "天青",
+          "hex": "#85CEF2",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "116",
+      "nameEn": "Xinglang",
+      "nameZh": "星朗",
+      "hex": "#BCE4F8",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Xinglang",
+          "nameZh": "星朗",
+          "hex": "#BCE4F8",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "109",
+      "nameEn": "Dusk mountain purple",
+      "nameZh": "暮山紫",
+      "hex": "#808CC2",
+      "family": "Lavender & Lilac",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Dusk mountain purple",
+          "nameZh": "暮山紫",
+          "hex": "#808CC2",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "112",
+      "nameEn": "Indigo blue",
+      "nameZh": "靛蓝",
+      "hex": "#124096",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Indigo blue",
+          "nameZh": "靛蓝",
+          "hex": "#124096",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "111",
+      "nameEn": "Peacock blue",
+      "nameZh": "孔雀蓝",
+      "hex": "#1B357D",
+      "family": "Blue",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Peacock blue",
+          "nameZh": "孔雀蓝",
+          "hex": "#1B357D",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "113",
+      "nameEn": "Verdant City",
+      "nameZh": "碧城",
+      "hex": "#1D2F68",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Verdant City",
+          "nameZh": "碧城",
+          "hex": "#1D2F68",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "108",
+      "nameEn": "Purple bulrush",
+      "nameZh": "紫蒲",
+      "hex": "#3C2970",
+      "family": "Purple & Violet",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Purple bulrush",
+          "nameZh": "紫蒲",
+          "hex": "#3C2970",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "119",
+      "nameEn": "Deep purple",
+      "nameZh": "黛紫",
+      "hex": "#242858",
+      "family": "Purple & Violet",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Deep purple",
+          "nameZh": "黛紫",
+          "hex": "#242858",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "133",
+      "nameEn": "Honey mixture",
+      "nameZh": "蜜合",
+      "hex": "#BBA987",
+      "family": "Brown & Earth",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Honey mixture",
+          "nameZh": "蜜合",
+          "hex": "#BBA987",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "134",
+      "nameEn": "Calamine",
+      "nameZh": "甘石",
+      "hex": "#D2B6A1",
+      "family": "Skin & Nude",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Calamine",
+          "nameZh": "甘石",
+          "hex": "#D2B6A1",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "104",
+      "nameEn": "Red sandalwood",
+      "nameZh": "紫檀",
+      "hex": "#542526",
+      "family": "Brown & Earth",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Red sandalwood",
+          "nameZh": "紫檀",
+          "hex": "#542526",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "103",
+      "nameEn": "Chestnut shell",
+      "nameZh": "栗壳",
+      "hex": "#4A3937",
+      "family": "Brown & Earth",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Chestnut shell",
+          "nameZh": "栗壳",
+          "hex": "#4A3937",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "102",
+      "nameEn": "Ink gray",
+      "nameZh": "墨灰",
+      "hex": "#627486",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "china"
+      ],
+      "products": [
+        "chinese-traditional"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "china",
+          "nameEn": "Ink gray",
+          "nameZh": "墨灰",
+          "hex": "#627486",
+          "products": [
+            "chinese-traditional"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "211",
+      "nameEn": "Violet",
+      "nameZh": "紫罗兰",
+      "hex": "#512866",
+      "family": "Purple & Violet",
+      "palettes": [
+        "selected"
+      ],
+      "products": [
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "selected",
+          "nameEn": "Violet",
+          "nameZh": "紫罗兰",
+          "hex": "#512866",
+          "products": [
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "220",
+      "nameEn": "Deep blue",
+      "nameZh": "深蓝",
+      "hex": "#24375E",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "selected"
+      ],
+      "products": [
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "selected",
+          "nameEn": "Deep blue",
+          "nameZh": "深蓝",
+          "hex": "#24375E",
+          "products": [
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "219",
+      "nameEn": "Prussian blue",
+      "nameZh": "普鲁士蓝",
+      "hex": "#17293A",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "selected"
+      ],
+      "products": [
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "selected",
+          "nameEn": "Prussian blue",
+          "nameZh": "普鲁士蓝",
+          "hex": "#17293A",
+          "products": [
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "247",
+      "nameEn": "Deep grey",
+      "nameZh": "深灰",
+      "hex": "#555A5B",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "selected"
+      ],
+      "products": [
+        "selected-72"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "selected",
+          "nameEn": "Deep grey",
+          "nameZh": "深灰",
+          "hex": "#555A5B",
+          "products": [
+            "selected-72"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "752",
+      "nameEn": "Chrysoprase",
+      "nameZh": "玉石绿",
+      "hex": "#07BD8D",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Chrysoprase",
+          "nameZh": "玉石绿",
+          "hex": "#07BD8D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "753",
+      "nameEn": "Neo mint",
+      "nameZh": "浅绿",
+      "hex": "#DFFEEC",
+      "family": "Mint & Aqua",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Neo mint",
+          "nameZh": "浅绿",
+          "hex": "#DFFEEC",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "754",
+      "nameEn": "Rifle green",
+      "nameZh": "橄榄绿",
+      "hex": "#30402D",
+      "family": "Olive & Moss",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Rifle green",
+          "nameZh": "橄榄绿",
+          "hex": "#30402D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "755",
+      "nameEn": "Turf green",
+      "nameZh": "绿灰",
+      "hex": "#40623F",
+      "family": "Olive & Moss",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Turf green",
+          "nameZh": "绿灰",
+          "hex": "#40623F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "756",
+      "nameEn": "Rose taupe",
+      "nameZh": "绯褐色",
+      "hex": "#774257",
+      "family": "Brown & Earth",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Rose taupe",
+          "nameZh": "绯褐色",
+          "hex": "#774257",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "749",
+      "nameEn": "Italian plum",
+      "nameZh": "意大利梅子",
+      "hex": "#483064",
+      "family": "Purple & Violet",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Italian plum",
+          "nameZh": "意大利梅子",
+          "hex": "#483064",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "757",
+      "nameEn": "Bronze brown",
+      "nameZh": "棕绿色",
+      "hex": "#866A3C",
+      "family": "Brown & Earth",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Bronze brown",
+          "nameZh": "棕绿色",
+          "hex": "#866A3C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "758",
+      "nameEn": "Dark olive",
+      "nameZh": "橄榄棕",
+      "hex": "#484234",
+      "family": "Olive & Moss",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Dark olive",
+          "nameZh": "橄榄棕",
+          "hex": "#484234",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "759",
+      "nameEn": "Poppy seed",
+      "nameZh": "深灰色",
+      "hex": "#4F5856",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Poppy seed",
+          "nameZh": "深灰色",
+          "hex": "#4F5856",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "750",
+      "nameEn": "Emerald green",
+      "nameZh": "翠绿",
+      "hex": "#175843",
+      "family": "Green",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Emerald green",
+          "nameZh": "翠绿",
+          "hex": "#175843",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "751",
+      "nameEn": "Emerald green light",
+      "nameZh": "浅翠绿",
+      "hex": "#05805F",
+      "family": "Green",
+      "palettes": [
+        "classic"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-classic",
+          "nameEn": "Emerald green light",
+          "nameZh": "浅翠绿",
+          "hex": "#05805F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "649",
+      "nameEn": "Pastel yellow",
+      "nameZh": "奶油黄",
+      "hex": "#EFEC9A",
+      "family": "Yellow",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Pastel yellow",
+          "nameZh": "奶油黄",
+          "hex": "#EFEC9A",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "650",
+      "nameEn": "Mimosa",
+      "nameZh": "含羞草黄",
+      "hex": "#EABC38",
+      "family": "Yellow",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Mimosa",
+          "nameZh": "含羞草黄",
+          "hex": "#EABC38",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "658",
+      "nameEn": "Classic blue",
+      "nameZh": "经典蓝",
+      "hex": "#2D4078",
+      "family": "Blue",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Classic blue",
+          "nameZh": "经典蓝",
+          "hex": "#2D4078",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "659",
+      "nameEn": "Midnight",
+      "nameZh": "午夜蓝",
+      "hex": "#2A3555",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Midnight",
+          "nameZh": "午夜蓝",
+          "hex": "#2A3555",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "660",
+      "nameEn": "Shakespeare",
+      "nameZh": "薄荷蓝",
+      "hex": "#2794BC",
+      "family": "Teal & Turquoise",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Shakespeare",
+          "nameZh": "薄荷蓝",
+          "hex": "#2794BC",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "661",
+      "nameEn": "Colibri",
+      "nameZh": "蜂鸟绿",
+      "hex": "#28403E",
+      "family": "Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Colibri",
+          "nameZh": "蜂鸟绿",
+          "hex": "#28403E",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "651",
+      "nameEn": "Flu. red",
+      "nameZh": "荧光红",
+      "hex": "#EE5A7E",
+      "family": "Red",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Flu. red",
+          "nameZh": "荧光红",
+          "hex": "#EE5A7E",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "652",
+      "nameEn": "Cherry blossom",
+      "nameZh": "樱花粉",
+      "hex": "#F3B4CC",
+      "family": "Pink",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Cherry blossom",
+          "nameZh": "樱花粉",
+          "hex": "#F3B4CC",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "662",
+      "nameEn": "Bright chartreuse",
+      "nameZh": "柠檬绿",
+      "hex": "#BECB3F",
+      "family": "Yellow Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Bright chartreuse",
+          "nameZh": "柠檬绿",
+          "hex": "#BECB3F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "663",
+      "nameEn": "Neon green",
+      "nameZh": "荧光绿",
+      "hex": "#6ABD53",
+      "family": "Yellow Green",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Neon green",
+          "nameZh": "荧光绿",
+          "hex": "#6ABD53",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "653",
+      "nameEn": "Neon pink",
+      "nameZh": "荧光粉",
+      "hex": "#D783B5",
+      "family": "Pink",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Neon pink",
+          "nameZh": "荧光粉",
+          "hex": "#D783B5",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "654",
+      "nameEn": "Honeysuckle",
+      "nameZh": "忍冬红",
+      "hex": "#C44477",
+      "family": "Rose & Magenta",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Honeysuckle",
+          "nameZh": "忍冬红",
+          "hex": "#C44477",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "655",
+      "nameEn": "Radiant orchid",
+      "nameZh": "兰花紫",
+      "hex": "#613969",
+      "family": "Purple & Violet",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Radiant orchid",
+          "nameZh": "兰花紫",
+          "hex": "#613969",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "664",
+      "nameEn": "Peat moss",
+      "nameZh": "苔藓绿",
+      "hex": "#595A3C",
+      "family": "Olive & Moss",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Peat moss",
+          "nameZh": "苔藓绿",
+          "hex": "#595A3C",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "665",
+      "nameEn": "Ultimate",
+      "nameZh": "深灰",
+      "hex": "#7E8792",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Ultimate",
+          "nameZh": "深灰",
+          "hex": "#7E8792",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "666",
+      "nameEn": "Moonless night",
+      "nameZh": "无月之夜",
+      "hex": "#33373D",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Moonless night",
+          "nameZh": "无月之夜",
+          "hex": "#33373D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "667",
+      "nameEn": "Black",
+      "nameZh": "黑色",
+      "hex": "#151719",
+      "family": "Black",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Black",
+          "nameZh": "黑色",
+          "hex": "#151719",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "656",
+      "nameEn": "Very peri",
+      "nameZh": "长春花蓝",
+      "hex": "#323162",
+      "family": "Purple & Violet",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Very peri",
+          "nameZh": "长春花蓝",
+          "hex": "#323162",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "657",
+      "nameEn": "Ethereal blue",
+      "nameZh": "以太蓝",
+      "hex": "#548DC7",
+      "family": "Sky & Light Blue",
+      "palettes": [
+        "macaron"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-marcroon",
+          "nameEn": "Ethereal blue",
+          "nameZh": "以太蓝",
+          "hex": "#548DC7",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "849",
+      "nameEn": "Shell white",
+      "nameZh": "贝壳白",
+      "hex": "#EFE7EA",
+      "family": "White",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Shell white",
+          "nameZh": "贝壳白",
+          "hex": "#EFE7EA",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "850",
+      "nameEn": "Young wheat",
+      "nameZh": "嫩麦",
+      "hex": "#ECE5AF",
+      "family": "Cream & Ivory",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Young wheat",
+          "nameZh": "嫩麦",
+          "hex": "#ECE5AF",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "852",
+      "nameEn": "After midnight",
+      "nameZh": "午夜蓝",
+      "hex": "#43515D",
+      "family": "Navy & Indigo",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "After midnight",
+          "nameZh": "午夜蓝",
+          "hex": "#43515D",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "853",
+      "nameEn": "Dark cool gray",
+      "nameZh": "深冷灰",
+      "hex": "#2F3B40",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Dark cool gray",
+          "nameZh": "深冷灰",
+          "hex": "#2F3B40",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "851",
+      "nameEn": "Sandstone",
+      "nameZh": "砂岩褐",
+      "hex": "#AB5D45",
+      "family": "Brown & Earth",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Sandstone",
+          "nameZh": "砂岩褐",
+          "hex": "#AB5D45",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "854",
+      "nameEn": "Olive",
+      "nameZh": "橄榄灰",
+      "hex": "#333927",
+      "family": "Olive & Moss",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Olive",
+          "nameZh": "橄榄灰",
+          "hex": "#333927",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "855",
+      "nameEn": "Pine needle",
+      "nameZh": "松针绿",
+      "hex": "#2E5148",
+      "family": "Green",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Pine needle",
+          "nameZh": "松针绿",
+          "hex": "#2E5148",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "856",
+      "nameEn": "Beige grey",
+      "nameZh": "米灰",
+      "hex": "#DCD6D0",
+      "family": "Grey & Neutral",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Beige grey",
+          "nameZh": "米灰",
+          "hex": "#DCD6D0",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "857",
+      "nameEn": "Gold",
+      "nameZh": "金色",
+      "hex": "#EED38F",
+      "family": "Metallic",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Gold",
+          "nameZh": "金色",
+          "hex": "#EED38F",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "858",
+      "nameEn": "Sockeye salmon",
+      "nameZh": "鲑鱼红",
+      "hex": "#B56146",
+      "family": "Red",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Sockeye salmon",
+          "nameZh": "鲑鱼红",
+          "hex": "#B56146",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "859",
+      "nameEn": "Black galaxy",
+      "nameZh": "黑金沙",
+      "hex": "#36373B",
+      "family": "Black",
+      "palettes": [
+        "morandi"
+      ],
+      "products": [
+        "skyists"
+      ],
+      "materialType": "oil-pastel",
+      "variants": [
+        {
+          "source": "sky-morandi",
+          "nameEn": "Black galaxy",
+          "nameZh": "黑金沙",
+          "hex": "#36373B",
+          "products": [
+            "skyists"
+          ]
+        }
+      ]
+    }
+  ]
+}
